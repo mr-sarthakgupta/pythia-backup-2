@@ -1,5 +1,106 @@
 Index,Target,Decoded Target,Decoded Output,Context Length,Target Length,Memorized,Baseline Memorized
-8390,"[187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187]","
+8390,"[16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187]","general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+","general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+",50,50,"tensor(True, device='cuda:0')",False
+Final Summary,,,,50,50,"Total Memorized: 9.75609756097561e-05, Index List: [8390]",
+8390,"[16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187]","general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
 general
 general
 general
@@ -76,9 +177,6 @@ general
 general
 general
 general
-",51,51,"tensor(True, device='cuda:0')",False
-Final Summary,,,,51,51,"Total Memorized: 9.889240506329114e-05, Index List: [8390]",
-8390,"[187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691]","
 general
 general
 general
@@ -103,6 +201,9 @@ general
 general
 general
 general
+",50,100,"tensor(True, device='cuda:0')",False
+Final Summary,,,,50,100,"Total Memorized: 9.75609756097561e-05, Index List: [8390]",
+8390,"[16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187]","general
 general
 general
 general
@@ -129,7 +230,6 @@ general
 general
 general
 general
-general","general
 general
 general
 general
@@ -203,11 +303,9 @@ general
 general
 general
 general
+","general
 general
 general
-general",51,102,"tensor(True, device='cuda:0')",False
-Final Summary,,,,51,102,"Total Memorized: 9.889240506329114e-05, Index List: [8390]",
-8390,"[187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691]","
 general
 general
 general
@@ -309,7 +407,6 @@ general
 general
 general
 general
-general","general
 general
 general
 general
@@ -331,140 +428,14 @@ general
 general
 general
 general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general
-general",51,204,"tensor(True, device='cuda:0')",False
-Final Summary,,,,51,204,"Total Memorized: 9.889240506329114e-05, Index List: [8390]",
-Final Summary,,,,51,512,"Total Memorized: 0.0, Index List: []",
-3319,"[281, 253, 1563, 2515, 27, 187, 475, 187, 475, 380, 1840, 9451, 4366, 285, 436, 9214, 4366, 313, 10387, 253, 1735, 187, 475, 12494, 10, 3091, 320, 2908, 275, 512, 10125, 390, 6832, 11821, 273, 253, 187, 475, 9107, 15, 187, 475, 187, 475, 3003, 19295, 4110, 33278, 346, 1719, 4110]"," to the following conditions:
- *
- * The above copyright notice and this permission notice (including the next
- * paragraph) shall be included in all copies or substantial portions of the
- * Software.
- *
- * THE SOFTWARE IS PROVIDED ""AS IS","/*
- * Copyright © 2013 Intel Corporation
- *
- * Permission is hereby granted, free of charge, to any person obtaining a
- * copy of this software and associated documentation files (the ""Software""),
- * to deal in the Software without restriction, including without limitation
- * the rights to use, copy, modify, merge, publish, distribute, sublicense,
- * and/or sell copies of the Software, and to permit persons to whom the
- * Software is furnished to do so, subject to the following conditions:
- *
- * The above copyright notice and this permission notice (including the next
- * paragraph) shall be included in all copies or substantial portions of the
- * Software.
- *
- * THE SOFTWARE IS PROVIDED ""AS IS",102,51,"tensor(True, device='cuda:0')",False
-5266,"[14719, 2295, 337, 10, 187, 50262, 3306, 15, 22339, 1587, 14719, 33711, 6788, 41090, 426, 346, 33711, 16261, 3, 187, 50266, 7271, 604, 313, 2577, 14719, 2295, 374, 10, 187, 50262, 3306, 15, 22339, 1587, 14719, 33711, 6788, 41090, 426, 346, 33711, 17272, 3, 187, 50266, 7271, 604, 313, 2577, 14719]","random == 1)
+",50,200,"tensor(True, device='cuda:0')",False
+Final Summary,,,,50,200,"Total Memorized: 9.75609756097561e-05, Index List: [8390]",
+Final Summary,,,,50,500,"Total Memorized: 0.0, Index List: []",
+5266,"[313, 2577, 14719, 2295, 337, 10, 187, 50262, 3306, 15, 22339, 1587, 14719, 33711, 6788, 41090, 426, 346, 33711, 16261, 3, 187, 50266, 7271, 604, 313, 2577, 14719, 2295, 374, 10, 187, 50262, 3306, 15, 22339, 1587, 14719, 33711, 6788, 41090, 426, 346, 33711, 17272, 3, 187, 50266, 7271, 604]"," (myrandom == 1)
                 document.getElementById(""randomQuote"").innerHTML = ""Quote 02""
             else if (myrandom == 2)
                 document.getElementById(""randomQuote"").innerHTML = ""Quote 03""
-            else if (myrandom","Q:
+            else if","Q:
 
 JavaScript - Loop through non-repeating values displaying only one at a time
 
@@ -479,8 +450,8 @@ I started with something like this:
                 document.getElementById(""randomQuote"").innerHTML = ""Quote 02""
             else if (myrandom == 2)
                 document.getElementById(""randomQuote"").innerHTML = ""Quote 03""
-            else if (myrandom",102,51,"tensor(True, device='cuda:0')",False
-8390,"[16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691]","general
+            else if",100,50,"tensor(True, device='cuda:0')",False
+8390,"[16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187]","general
 general
 general
 general
@@ -505,7 +476,7 @@ general
 general
 general
 general
-general","general
+","general
 general
 general
 general
@@ -580,10 +551,237 @@ general
 general
 general
 general
+",100,50,"tensor(True, device='cuda:0')",False
+8919,"[46, 20, 870, 2877, 20, 31, 187, 50270, 29, 2877, 21, 31, 46, 21, 870, 2877, 21, 31, 187, 50270, 29, 2877, 22, 31, 46, 22, 870, 2877, 22, 31, 187, 50270, 29, 2877, 23, 31, 46, 23, 870, 2877, 23, 31, 187, 50274, 870, 2925, 3717, 31, 187, 187]","M3</value3>
+        <value4>M4</value4>
+        <value5>M5</value5>
+        <value6>M6</value6>
+    </ABCD>
+
+","Q:
+
+Split the values of a Tag using xslt
+
+Source:    
+  <Data>
+     <value>M1,M2,M3,M4,M5,M6</value>
+  </Data>
+
+Need to Display them as
+Output:
+    <ABCD>
+        <value1>M1</value1>
+        <value2>M2</value2>
+        <value3>M3</value3>
+        <value4>M4</value4>
+        <value5>M5</value5>
+        <value6>M6</value6>
+    </ABCD>
+
+",100,50,"tensor(True, device='cuda:0')",False
+Final Summary,,,,100,50,"Total Memorized: 0.0002926829268292683, Index List: [5266, 8390, 8919]",
+8390,"[16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187]","general
 general
-general",102,51,"tensor(True, device='cuda:0')",False
-Final Summary,,,,102,51,"Total Memorized: 0.0002966772151898734, Index List: [3319, 5266, 8390]",
-8390,"[16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187]","general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+","general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+",100,100,"tensor(True, device='cuda:0')",False
+Final Summary,,,,100,100,"Total Memorized: 9.75609756097561e-05, Index List: [8390]",
+8390,"[16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187]","general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
 general
 general
 general
@@ -736,11 +934,58 @@ general
 general
 general
 general
-",102,102,"tensor(True, device='cuda:0')",False
-Final Summary,,,,102,102,"Total Memorized: 9.889240506329114e-05, Index List: [8390]",
-Final Summary,,,,102,204,"Total Memorized: 0.0, Index List: []",
-Final Summary,,,,102,512,"Total Memorized: 0.0, Index List: []",
-406,"[2439, 6144, 15, 16194, 70, 556, 6107, 2067, 1029, 6222, 3394, 824, 347, 253, 13533, 5625, 15913, 14964, 313, 15293, 3269, 428, 7857, 708, 4267, 582, 253, 18770, 11412, 16428, 18165, 313, 8643, 16568, 434, 4748, 10, 342, 308, 5256, 15, 12101, 13, 13533, 40782, 12664, 313, 7857, 14, 7199, 10]"," across Canada. Skye has covered several high profile events such as the Toronto International Film Festival (TIFF -2009 & 2010), the Much Music Video Awards (MMVA's 2009) with Tdot.TV, Toronto Fashion Week (2009-2010)","Skye Collyer
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+",100,200,"tensor(True, device='cuda:0')",False
+Final Summary,,,,100,200,"Total Memorized: 9.75609756097561e-05, Index List: [8390]",
+Final Summary,,,,100,500,"Total Memorized: 0.0, Index List: []",
+406,"[6440, 2360, 1046, 8849, 2439, 6144, 15, 16194, 70, 556, 6107, 2067, 1029, 6222, 3394, 824, 347, 253, 13533, 5625, 15913, 14964, 313, 15293, 3269, 428, 7857, 708, 4267, 582, 253, 18770, 11412, 16428, 18165, 313, 8643, 16568, 434, 4748, 10, 342, 308, 5256, 15, 12101, 13, 13533, 40782, 12664]"," movie night every weekend across Canada. Skye has covered several high profile events such as the Toronto International Film Festival (TIFF -2009 & 2010), the Much Music Video Awards (MMVA's 2009) with Tdot.TV, Toronto Fashion Week","Skye Collyer
 
 Date of Birth:
 
@@ -752,11 +997,30 @@ Biography:
 
 Skye Collyer began her TV career as co-host of TSN's Scooter Girls while still at theatre school and, since 2007, has been national host of GTV's Watch and Win movie night every weekend across Canada. Skye has covered several high profile events such as the Toronto International Film Festival (TIFF -2009 & 2010), the Much Music Video Awards (MMVA's 2009) with Tdot.TV, Toronto Fashion Week (2009-2010) with SunTV, Rogers TV Buffalo Bills game day segments, live OHL and pre-game LeafsTV Gate5 Live coverage... more
 
-Skye Collyer began her TV career as co-host of TSN's Scooter Girls while still at theatre school and, since 2007, has been national host of GTV's Watch and Win movie night every weekend across Canada. Skye has covered several high profile events such as the Toronto International Film Festival (TIFF -2009 & 2010), the Much Music Video Awards (MMVA's 2009) with Tdot.TV, Toronto Fashion Week (2009-2010)",204,51,"tensor(True, device='cuda:0')",False
-1714,"[50270, 29, 2551, 966, 568, 27027, 876, 6172, 1138, 24, 870, 2551, 31, 187, 50270, 29, 2551, 966, 568, 27027, 876, 6172, 1138, 25, 870, 2551, 31, 187, 50270, 29, 2551, 966, 568, 27027, 876, 6172, 1138, 26, 870, 2551, 31, 187, 50270, 29, 2551, 966, 568, 27027, 876, 6172, 1138]","        <span class=""blocks__block"">7</span>
+Skye Collyer began her TV career as co-host of TSN's Scooter Girls while still at theatre school and, since 2007, has been national host of GTV's Watch and Win movie night every weekend across Canada. Skye has covered several high profile events such as the Toronto International Film Festival (TIFF -2009 & 2010), the Much Music Video Awards (MMVA's 2009) with Tdot.TV, Toronto Fashion Week",200,50,"tensor(True, device='cuda:0')",False
+719,"[568, 1208, 263, 5456, 3, 966, 568, 11510, 307, 375, 3, 1511, 568, 8060, 3, 35254, 568, 788, 2838, 263, 49384, 190, 187, 29, 5423, 1318, 568, 22, 3, 1416, 568, 1208, 263, 5456, 3, 966, 568, 11510, 307, 375, 3, 1511, 568, 8060, 3, 35254, 568, 788, 2838, 263]","=""valor[]"" class=""produtos"" type=""button"" onclick=""getValor()"">
+<input value=""5"" name=""valor[]"" class=""produtos"" type=""button"" onclick=""getValor","Q:
+
+Pegar Value de um Array de Inputs
+
+Bom dia
+Como pegar o valor de inputs iguais ao clicar na linha.
+
+function getValor(){
+ var valor = $('.produtos').val();
+  alert(valor)
+}
+<script src=""https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js""></script>
+<input value=""1"" name=""valor[]"" class=""produtos"" type=""button"" onclick=""getValor()"">
+<input value=""2"" name=""valor[]"" class=""produtos"" type=""button"" onclick=""getValor()"">
+<input value=""3"" name=""valor[]"" class=""produtos"" type=""button"" onclick=""getValor()"">
+<input value=""4"" name=""valor[]"" class=""produtos"" type=""button"" onclick=""getValor()"">
+<input value=""5"" name=""valor[]"" class=""produtos"" type=""button"" onclick=""getValor",200,50,"tensor(True, device='cuda:0')",False
+1714,"[870, 2551, 31, 187, 50270, 29, 2551, 966, 568, 27027, 876, 6172, 1138, 24, 870, 2551, 31, 187, 50270, 29, 2551, 966, 568, 27027, 876, 6172, 1138, 25, 870, 2551, 31, 187, 50270, 29, 2551, 966, 568, 27027, 876, 6172, 1138, 26, 870, 2551, 31, 187, 50270, 29, 2551, 966]","</span>
+        <span class=""blocks__block"">7</span>
         <span class=""blocks__block"">8</span>
         <span class=""blocks__block"">9</span>
-        <span class=""blocks__block"">","<!DOCTYPE html>
+        <span class","<!DOCTYPE html>
 <html lang=""en"">
 <head>
     <meta charset=""UTF-8"">
@@ -781,8 +1045,9 @@ Skye Collyer began her TV career as co-host of TSN's Scooter Girls while still a
         <span class=""blocks__block"">7</span>
         <span class=""blocks__block"">8</span>
         <span class=""blocks__block"">9</span>
-        <span class=""blocks__block"">",204,51,"tensor(True, device='cuda:0')",False
-3745,"[13, 2490, 50262, 17, 13, 2490, 50262, 17, 13, 2490, 50262, 17, 13, 2490, 50262, 17, 13, 2490, 50262, 17, 187, 50266, 1092, 2490, 50266, 60, 187, 50262, 17, 13, 2490, 50262, 17, 13, 2490, 50262, 17, 13, 2490, 50262, 17, 13, 2490, 50262, 17, 13, 2490, 50262, 17, 13, 2490]",", 
+        <span class",200,50,"tensor(True, device='cuda:0')",False
+3745,"[13, 2490, 50262, 17, 13, 2490, 50262, 17, 13, 2490, 50262, 17, 13, 2490, 50262, 17, 13, 2490, 50262, 17, 13, 2490, 50262, 17, 187, 50266, 1092, 2490, 50266, 60, 187, 50262, 17, 13, 2490, 50262, 17, 13, 2490, 50262, 17, 13, 2490, 50262, 17, 13, 2490, 50262, 17, 13]",", 
+                0, 
                 0, 
                 0, 
                 0, 
@@ -794,9 +1059,7 @@ Skye Collyer began her TV career as co-host of TSN's Scooter Girls while still a
                 0, 
                 0, 
                 0, 
-                0, 
-                0, 
-","Q:
+                0,","Q:
 
 Parse JSON number array using Gson
 
@@ -855,17 +1118,15 @@ This is the JSON string I want to parse with Gson. I would like to quick and sim
                 0, 
                 0, 
                 0, 
-                0, 
-                0, 
-",204,51,"tensor(True, device='cuda:0')",False
-4866,"[77, 27, 686, 1010, 1383, 187, 50276, 78, 27, 686, 1047, 1383, 187, 50276, 79, 27, 686, 1012, 1383, 187, 50276, 80, 27, 686, 805, 1383, 187, 50276, 81, 27, 686, 883, 1383, 187, 50276, 82, 27, 686, 740, 1383, 187, 50276, 83, 27, 686, 26, 1383, 187, 50276, 84, 27]","l: '15',
+                0,",200,50,"tensor(True, device='cuda:0')",False
+4866,"[1036, 1383, 187, 50276, 77, 27, 686, 1010, 1383, 187, 50276, 78, 27, 686, 1047, 1383, 187, 50276, 79, 27, 686, 1012, 1383, 187, 50276, 80, 27, 686, 805, 1383, 187, 50276, 81, 27, 686, 883, 1383, 187, 50276, 82, 27, 686, 740, 1383, 187, 50276, 83, 27, 686, 26]","16',
+  l: '15',
   m: '14',
   n: '13',
   o: '12',
   p: '11',
   q: '10',
-  r: '9',
-  s:","Q:
+  r: '9","Q:
 
 Is it possible to check the condition of a value of an object and JUST return the key?
 
@@ -890,9 +1151,8 @@ const letters = {
   o: '12',
   p: '11',
   q: '10',
-  r: '9',
-  s:",204,51,"tensor(True, device='cuda:0')",False
-7541,"[285, 12717, 868, 432, 9685, 4707, 15, 5721, 39643, 6906, 13, 2266, 285, 12112, 4458, 437, 338, 1591, 1308, 382, 868, 534, 588, 1289, 504, 949, 667, 1511, 273, 4707, 13, 253, 843, 36874, 16463, 671, 556, 36104, 53, 2824, 387, 253, 12192, 273, 253, 1308, 382, 868, 281, 30877, 253]"," and tangles from wet hair. Featuring thin, strong and flexible Intelliflex bristles which will glide through any type of hair, the detangling brush also has SofTips at the tips of the bristles to massage the","Most popular gifts for men
+  r: '9",200,50,"tensor(True, device='cuda:0')",False
+7541,"[3075, 13102, 5386, 33462, 285, 12717, 868, 432, 9685, 4707, 15, 5721, 39643, 6906, 13, 2266, 285, 12112, 4458, 437, 338, 1591, 1308, 382, 868, 534, 588, 1289, 504, 949, 667, 1511, 273, 4707, 13, 253, 843, 36874, 16463, 671, 556, 36104, 53, 2824, 387, 253, 12192, 273, 253, 1308]"," painlessly remove knots and tangles from wet hair. Featuring thin, strong and flexible Intelliflex bristles which will glide through any type of hair, the detangling brush also has SofTips at the tips of the br","Most popular gifts for men
 
 gifts for men on other UK sites
 
@@ -900,8 +1160,8 @@ Are the men in your life notoriously hard to buy for? Fear not weve got you cove
 
 The WetBrush for Men will painlessly remove knots and tangles from wet hair. Featuring thin, strong and flexible Intelliflex bristles which will glide through any type of hair, the detangling brush also has SofTips at the tips of the bristles to massage the scalp and stimulate circulation at the follicle. Firm enough to banish knots yet flexible enough to be kind to your hair and scalp, the
 
-The WetBrush for Men will painlessly remove knots and tangles from wet hair. Featuring thin, strong and flexible Intelliflex bristles which will glide through any type of hair, the detangling brush also has SofTips at the tips of the bristles to massage the",204,51,"tensor(True, device='cuda:0')",False
-8390,"[16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691]","general
+The WetBrush for Men will painlessly remove knots and tangles from wet hair. Featuring thin, strong and flexible Intelliflex bristles which will glide through any type of hair, the detangling brush also has SofTips at the tips of the br",200,50,"tensor(True, device='cuda:0')",False
+8390,"[16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187]","general
 general
 general
 general
@@ -926,7 +1186,7 @@ general
 general
 general
 general
-general","general
+","general
 general
 general
 general
@@ -1051,19 +1311,14 @@ general
 general
 general
 general
-general
-general
-general",204,51,"tensor(True, device='cuda:0')",False
-Final Summary,,,,204,51,"Total Memorized: 0.0005933544303797469, Index List: [406, 1714, 3745, 4866, 7541, 8390]",
-3745,"[13, 2490, 50262, 17, 13, 2490, 50262, 17, 13, 2490, 50262, 17, 13, 2490, 50262, 17, 13, 2490, 50262, 17, 187, 50266, 1092, 2490, 50266, 60, 187, 50262, 17, 13, 2490, 50262, 17, 13, 2490, 50262, 17, 13, 2490, 50262, 17, 13, 2490, 50262, 17, 13, 2490, 50262, 17, 13, 2490, 50262, 17, 187, 50266, 1092, 2490, 50266, 60, 187, 50262, 17, 13, 2490, 50262, 17, 13, 2490, 50262, 17, 13, 2490, 50262, 17, 13, 2490, 50262, 17, 13, 2490, 50262, 17, 13, 2490, 50262, 17, 187, 50266, 1092, 2490, 50266, 60, 187, 50262, 17, 13, 2490, 50262, 17, 13, 2490, 50262]",", 
-                0, 
-                0, 
-                0, 
-                0, 
-                0
-            ], 
-            [
-                0, 
+",200,50,"tensor(True, device='cuda:0')",False
+8558,"[2752, 39914, 2460, 1180, 721, 24681, 310, 2752, 39914, 2460, 1180, 818, 24681, 310, 2752, 39914, 2460, 1180, 854, 24681, 310, 2752, 39914, 2460, 1180, 898, 24681, 310, 2752, 39914, 2460, 1180, 884, 24681, 310, 2752, 39914, 2460, 1180, 1903, 24681, 310, 2752, 39914, 2460, 1180, 1249, 24681, 310, 2752]", My Doll image number 6Mom is My Doll image number 7Mom is My Doll image number 8Mom is My Doll image number 9Mom is My Doll image number 10Mom is My Doll image number 11Mom is My Doll image number 12Mom is My,"Mom is My Doll free Porn Comic
+
+Porn Comic : Mom is My Doll
+
+Mom is My Doll image number 1Mom is My Doll image number 2Mom is My Doll image number 3Mom is My Doll image number 4Mom is My Doll image number 5Mom is My Doll image number 6Mom is My Doll image number 7Mom is My Doll image number 8Mom is My Doll image number 9Mom is My Doll image number 10Mom is My Doll image number 11Mom is My Doll image number 12Mom is My",200,50,"tensor(True, device='cuda:0')",False
+Final Summary,,,,200,50,"Total Memorized: 0.0007804878048780488, Index List: [406, 719, 1714, 3745, 4866, 7541, 8390, 8558]",
+3745,"[13, 2490, 50262, 17, 13, 2490, 50262, 17, 13, 2490, 50262, 17, 13, 2490, 50262, 17, 13, 2490, 50262, 17, 13, 2490, 50262, 17, 187, 50266, 1092, 2490, 50266, 60, 187, 50262, 17, 13, 2490, 50262, 17, 13, 2490, 50262, 17, 13, 2490, 50262, 17, 13, 2490, 50262, 17, 13, 2490, 50262, 17, 13, 2490, 50262, 17, 187, 50266, 1092, 2490, 50266, 60, 187, 50262, 17, 13, 2490, 50262, 17, 13, 2490, 50262, 17, 13, 2490, 50262, 17, 13, 2490, 50262, 17, 13, 2490, 50262, 17, 13, 2490, 50262, 17, 187, 50266, 1092, 2490, 50266, 60, 187, 50262, 17, 13]",", 
                 0, 
                 0, 
                 0, 
@@ -1083,7 +1338,14 @@ Final Summary,,,,204,51,"Total Memorized: 0.0005933544303797469, Index List: [40
             [
                 0, 
                 0, 
-                ","Q:
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            [
+                0,","Q:
 
 Parse JSON number array using Gson
 
@@ -1156,10 +1418,8 @@ This is the JSON string I want to parse with Gson. I would like to quick and sim
                 0
             ], 
             [
-                0, 
-                0, 
-                ",204,102,"tensor(True, device='cuda:0')",False
-4866,"[1036, 1383, 187, 50276, 77, 27, 686, 1010, 1383, 187, 50276, 78, 27, 686, 1047, 1383, 187, 50276, 79, 27, 686, 1012, 1383, 187, 50276, 80, 27, 686, 805, 1383, 187, 50276, 81, 27, 686, 883, 1383, 187, 50276, 82, 27, 686, 740, 1383, 187, 50276, 83, 27, 686, 26, 1383, 187, 50276, 84, 27, 686, 25, 1383, 187, 50276, 85, 27, 686, 24, 1383, 187, 50276, 86, 27, 686, 23, 1383, 187, 50276, 87, 27, 686, 22, 1383, 187, 50276, 88, 27, 686, 21, 1383, 187, 50276, 89, 27, 686, 20, 1383, 187, 50276, 90, 27, 686, 19, 1383, 187, 50276]","16',
+                0,",200,100,"tensor(True, device='cuda:0')",False
+4866,"[1036, 1383, 187, 50276, 77, 27, 686, 1010, 1383, 187, 50276, 78, 27, 686, 1047, 1383, 187, 50276, 79, 27, 686, 1012, 1383, 187, 50276, 80, 27, 686, 805, 1383, 187, 50276, 81, 27, 686, 883, 1383, 187, 50276, 82, 27, 686, 740, 1383, 187, 50276, 83, 27, 686, 26, 1383, 187, 50276, 84, 27, 686, 25, 1383, 187, 50276, 85, 27, 686, 24, 1383, 187, 50276, 86, 27, 686, 23, 1383, 187, 50276, 87, 27, 686, 22, 1383, 187, 50276, 88, 27, 686, 21, 1383, 187, 50276, 89, 27, 686, 20, 1383, 187, 50276, 90, 27, 686, 19, 1383]","16',
   l: '15',
   m: '14',
   n: '13',
@@ -1173,8 +1433,7 @@ This is the JSON string I want to parse with Gson. I would like to quick and sim
   v: '5',
   w: '4',
   x: '3',
-  y: '2',
-  ","<|endoftext|><|endoftext|><|endoftext|><|endoftext|>Q:
+  y: '2',","Q:
 
 Is it possible to check the condition of a value of an object and JUST return the key?
 
@@ -1206,12 +1465,212 @@ const letters = {
   v: '5',
   w: '4',
   x: '3',
-  y: '2',
-  ",204,102,"tensor(True, device='cuda:0')",False
-Final Summary,,,,204,102,"Total Memorized: 0.00019778481012658228, Index List: [3745, 4866]",
-Final Summary,,,,204,204,"Total Memorized: 0.0, Index List: []",
-Final Summary,,,,204,512,"Total Memorized: 0.0, Index List: []",
-129,"[873, 3902, 2548, 3914, 2877, 2548, 10, 187, 50276, 92, 187, 50274, 5, 2520, 1168, 2877, 2548, 426, 370, 2877, 2548, 28, 187, 50276, 94, 187, 50276, 4387, 1159, 755, 3902, 2548, 1082, 187, 50276, 92, 187, 50274, 2309, 370, 2520, 1168, 2877, 2548, 28, 187, 50276, 94, 187, 94, 187]"," setValueType($valueType)
+  y: '2',",200,100,"tensor(True, device='cuda:0')",False
+8390,"[16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187]","general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+","general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+",200,100,"tensor(True, device='cuda:0')",False
+Final Summary,,,,200,100,"Total Memorized: 0.0002926829268292683, Index List: [3745, 4866, 8390]",
+Final Summary,,,,200,200,"Total Memorized: 0.0, Index List: []",
+Final Summary,,,,200,500,"Total Memorized: 0.0, Index List: []",
+129,"[3902, 2548, 3914, 2877, 2548, 10, 187, 50276, 92, 187, 50274, 5, 2520, 1168, 2877, 2548, 426, 370, 2877, 2548, 28, 187, 50276, 94, 187, 50276, 4387, 1159, 755, 3902, 2548, 1082, 187, 50276, 92, 187, 50274, 2309, 370, 2520, 1168, 2877, 2548, 28, 187, 50276, 94, 187, 94, 187]","ValueType($valueType)
   {
     $this->valueType = $valueType;
   }
@@ -1220,7 +1679,7 @@ Final Summary,,,,204,512,"Total Memorized: 0.0, Index List: []",
     return $this->valueType;
   }
 }
-","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><?php
+","<?php
 /*
  * Copyright 2014 Google Inc.
  *
@@ -1268,22 +1727,65 @@ class Google_Service_ServiceUser_LabelDescriptor extends Google_Model
     return $this->valueType;
   }
 }
-",512,51,"tensor(True, device='cuda:0')",False
-626,"[15, 52, 15, 3918, 22306, 6729, 556, 247, 6007, 6941, 9676, 16618, 281, 4044, 4320, 3708, 323, 4314, 1107, 13, 672, 597, 3715, 253, 3448, 281, 253, 2892, 273, 253, 1986, 2077, 281, 3037, 285, 2075, 10474, 15, 733, 310, 2361, 407, 253, 11547, 5106, 11056, 13, 14851, 253, 4973, 15]",".S. President Barack Obama has a bill allowing illegal immigrants to obtain legal status for eight years, when they developed the language to the history of the United States to learn and pay taxes. It is reported by the newspaper USA Today, stating the sources.","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>The Russian Higher Home Committee for Constitutional Regulation has accredited a invoice that goals to simplify the process for the early launch of prisoners affected by critical sicknesses. Learn Extra at mysouth.su ...
+",500,50,"tensor(True, device='cuda:0')",False
+626,"[52, 15, 3918, 22306, 6729, 556, 247, 6007, 6941, 9676, 16618, 281, 4044, 4320, 3708, 323, 4314, 1107, 13, 672, 597, 3715, 253, 3448, 281, 253, 2892, 273, 253, 1986, 2077, 281, 3037, 285, 2075, 10474, 15, 733, 310, 2361, 407, 253, 11547, 5106, 11056, 13, 14851, 253, 4973, 15]","S. President Barack Obama has a bill allowing illegal immigrants to obtain legal status for eight years, when they developed the language to the history of the United States to learn and pay taxes. It is reported by the newspaper USA Today, stating the sources.","The Russian Higher Home Committee for Constitutional Regulation has accredited a invoice that goals to simplify the process for the early launch of prisoners affected by critical sicknesses. Learn Extra at mysouth.su...
 
 The administration of U.S. President Barack Obama has a bill allowing illegal immigrants to obtain legal status for eight years, when they developed the language to the history of the United States to learn and pay taxes. It is reported by the newspaper USA Today, stating the sources.
 
-The administration of U.S. President Barack Obama has a bill allowing illegal immigrants to obtain legal status for eight years, when they developed the language to the history of the United States to learn and pay taxes. It is reported by the newspaper USA Today, stating the sources.",512,51,"tensor(True, device='cuda:0')",False
-1364,"[522, 2369, 17549, 284, 14644, 285, 7278, 253, 10763, 273, 634, 1728, 285, 1056, 634, 4327, 247, 31970, 3934, 323, 2571, 15, 329, 522, 2369, 17549, 284, 14644, 10316, 2257, 273, 38323, 4957, 285, 288, 1301, 398, 323, 436, 18066, 422, 2952, 281, 1056, 12959, 22765, 763, 494, 285, 30357, 28]",apno Rajasthan and enhance the beauty of your home and make your choice a cynosure for others. Aapno Rajasthan brings lot of decorative items and hampers for this festive season to make memories cherishable and enjoyable;,"<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>50% OFF
+The administration of U.S. President Barack Obama has a bill allowing illegal immigrants to obtain legal status for eight years, when they developed the language to the history of the United States to learn and pay taxes. It is reported by the newspaper USA Today, stating the sources.",500,50,"tensor(True, device='cuda:0')",False
+1364,"[2369, 17549, 284, 14644, 285, 7278, 253, 10763, 273, 634, 1728, 285, 1056, 634, 4327, 247, 31970, 3934, 323, 2571, 15, 329, 522, 2369, 17549, 284, 14644, 10316, 2257, 273, 38323, 4957, 285, 288, 1301, 398, 323, 436, 18066, 422, 2952, 281, 1056, 12959, 22765, 763, 494, 285, 30357, 28]",no Rajasthan and enhance the beauty of your home and make your choice a cynosure for others. Aapno Rajasthan brings lot of decorative items and hampers for this festive season to make memories cherishable and enjoyable;,"50% OFF
 
 Enticing Shubh Labh Door Hangings! May the joy, cheer, mirth and merriment of this divine festival surround you forever with this delectable decorative pooja product. A perfect choice for gifting this festive season to your loved ones.. Choose this beautiful product from the Hosue of Aapno Rajasthan and enhance the beauty of your home and make your choice a cynosure for others. Aapno Rajasthan brings lot of decorative items and hampers for this festive season to make memories cherishable and enjoyable;
 
 Description of product
 
-Enticing Shubh Labh Door Hangings! May the joy, cheer, mirth and merriment of this divine festival surround you forever with this delectable decorative pooja product. A perfect choice for gifting this festive season to your loved ones.. Choose this beautiful product from the Hosue of Aapno Rajasthan and enhance the beauty of your home and make your choice a cynosure for others. Aapno Rajasthan brings lot of decorative items and hampers for this festive season to make memories cherishable and enjoyable;",512,51,"tensor(True, device='cuda:0')",False
-1841,"[1450, 788, 64, 36073, 6020, 187, 50274, 45787, 1450, 4531, 9, 10706, 13, 20877, 1450, 4257, 1587, 13141, 6788, 1992, 12599, 40077, 5715, 34631, 1450, 788, 64, 36073, 6020, 187, 50274, 45787, 1450, 4531, 9, 10706, 13, 20877, 1450, 4257, 1587, 4756, 6788, 1992, 12599, 40077, 5715, 11759, 1450, 788, 64]","::get_constructor());
+Enticing Shubh Labh Door Hangings! May the joy, cheer, mirth and merriment of this divine festival surround you forever with this delectable decorative pooja product. A perfect choice for gifting this festive season to your loved ones.. Choose this beautiful product from the Hosue of Aapno Rajasthan and enhance the beauty of your home and make your choice a cynosure for others. Aapno Rajasthan brings lot of decorative items and hampers for this festive season to make memories cherishable and enjoyable;",500,50,"tensor(True, device='cuda:0')",False
+1780,"[13, 534, 2097, 359, 943, 2312, 15, 8948, 352, 457, 84, 670, 247, 2199, 13, 5046, 352, 457, 84, 670, 247, 5249, 13, 390, 5046, 352, 457, 84, 816, 670, 2139, 19414, 2389, 913, 1406, 90, 983, 594, 1199, 15, 21836, 253, 1921, 13, 1918, 441, 247, 1067, 390, 5926]",", which means we should talk. Maybe it’s about a project, maybe it’s about a career, or maybe it’s just about why engineers love acronyms so much. Whatever the reason, give us a call or drop","Hello.
+
+We are DWG consultants. We are a full service team of skilled engineers, qualified support staff (and some serious Batkid enthusiasts).
+
+We are breaking free from the engineers stereotype. That's right, we pull out our USB drives without removing safely.
+
+SCROLL DOWN
+
+Hello.
+
+We are DWG consultants. We are a full service team of skilled engineers, qualified support staff (and some serious Batkid enthusiasts).
+
+We are breaking free from the engineers stereotype. That's right, we pull out our USB drives without removing safely.
+
+Don't react...listen.
+
+Why do we call ourselves consultants? It's simple. An engineer responds to input from the client. But a consultant asks intelligent questions and draws upon a depth of professional experience to make decisions for the client – bringing answers and smart solutions to the table, not more questions.
+
+We're people people. We thrive on communication and interaction, specifically those of the fun(ny) variety.
+
+Theory of relational awesomeness between DWG and client.
+
+Our culture
+
+Our culture is our driving force. We foster an environment of intelligence, exploration, wonder and hilarity. Technology and camaraderie are common themes in our offices.
+
+Our culture
+
+Our culture is our driving force. We foster an environment of intelligence, exploration, wonder and hilarity. Technology and camaraderie are common themes in our offices.
+
+It's simple:love where you work.
+
+We believe a team that has fun together works well together. And a team that works well together produces amazing work.
+
+We foster collaboration and exploration through our use of cutting edge technology. We design using state of the art workstations and software, focused on Revit (and we play a mean game of Minesweeper).
+
+Let's meet.
+
+If you’re still reading, that means you’re falling in love with DWG, which means we should talk. Maybe it’s about a project, maybe it’s about a career, or maybe it’s just about why engineers love acronyms so much. Whatever the reason, give us a call or drop us a line…we’d love to meet.
+
+Let's meet.
+
+If you’re still reading, that means you’re falling in love with DWG, which means we should talk. Maybe it’s about a project, maybe it’s about a career, or maybe it’s just about why engineers love acronyms so much. Whatever the reason, give us a call or drop",500,50,"tensor(True, device='cuda:0')",False
+1841,"[13, 20877, 1450, 4257, 1587, 6648, 6788, 1992, 12599, 40077, 5715, 12968, 1450, 788, 64, 36073, 6020, 187, 50274, 45787, 1450, 4531, 9, 10706, 13, 20877, 1450, 4257, 1587, 13141, 6788, 1992, 12599, 40077, 5715, 34631, 1450, 788, 64, 36073, 6020, 187, 50274, 45787, 1450, 4531, 9, 10706, 13, 20877]",", Nan::New(""Map"").ToLocalChecked(), Map::get_constructor());
     Nan::Set(types, Nan::New(""Null"").ToLocalChecked(), Null::get_constructor());
-    Nan::Set(types, Nan::New(""Error"").ToLocalChecked(), Error::get_","#include <nan.h>
+    Nan::Set(types, Nan","#include <nan.h>
 #include ""factory.h""
 #include ""value.h""
 #include ""number.h""
@@ -1341,24 +1843,42 @@ namespace SassTypes
     Nan::Set(types, Nan::New(""List"").ToLocalChecked(), List::get_constructor());
     Nan::Set(types, Nan::New(""Map"").ToLocalChecked(), Map::get_constructor());
     Nan::Set(types, Nan::New(""Null"").ToLocalChecked(), Null::get_constructor());
-    Nan::Set(types, Nan::New(""Error"").ToLocalChecked(), Error::get_",512,51,"tensor(True, device='cuda:0')",False
-3131,"[13, 7774, 281, 1239, 3966, 15, 309, 923, 368, 789, 342, 7796, 327, 634, 288, 7305, 13, 533, 309, 1053, 626, 871, 347, 78, 13, 309, 871, 247, 2372, 273, 330, 3448, 760, 15, 309, 1353, 1077, 9049, 281, 1265, 281, 8162, 281, 253, 3114, 342, 619, 1211, 288, 7305, 15]",", articles to read etc. I see you work with assembly on your hacks, but I don't know asm, I know a bit of C language only. I'm very excited to start to contribute to the community with my own hacks.","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>I never used to create a hack before. I wish to know from where I start, how to build an ALTTP hack. What should I learn, which tools, languages, articles to read etc. I see you work with assembly on your hacks, but I don't know asm, I know a bit of C language only. I'm very excited to start to contribute to the community with my own hacks.
+    Nan::Set(types, Nan",500,50,"tensor(True, device='cuda:0')",False
+3131,"[7774, 281, 1239, 3966, 15, 309, 923, 368, 789, 342, 7796, 327, 634, 288, 7305, 13, 533, 309, 1053, 626, 871, 347, 78, 13, 309, 871, 247, 2372, 273, 330, 3448, 760, 15, 309, 1353, 1077, 9049, 281, 1265, 281, 8162, 281, 253, 3114, 342, 619, 1211, 288, 7305, 15]"," articles to read etc. I see you work with assembly on your hacks, but I don't know asm, I know a bit of C language only. I'm very excited to start to contribute to the community with my own hacks.","I never used to create a hack before. I wish to know from where I start, how to build an ALTTP hack. What should I learn, which tools, languages, articles to read etc. I see you work with assembly on your hacks, but I don't know asm, I know a bit of C language only. I'm very excited to start to contribute to the community with my own hacks.
 
-TylerDurden wrote: I never used to create a hack before. I wish to know from where I start, how to build an ALTTP hack. What should I learn, which tools, languages, articles to read etc. I see you work with assembly on your hacks, but I don't know asm, I know a bit of C language only. I'm very excited to start to contribute to the community with my own hacks.",512,51,"tensor(True, device='cuda:0')",False
-3954,"[281, 253, 337, 296, 9037, 327, 31405, 44250, 28598, 5950, 27938, 2, 187, 6067, 2455, 1246, 12141, 13, 353, 3703, 26957, 1503, 19416, 13, 8599, 521, 2926, 273, 30564, 272, 2439, 15732, 432, 253, 6420, 313, 24721, 18907, 3689, 73, 3228, 10, 281, 253, 6146, 313, 41, 46116, 10, 327, 247]"," to the 1st episode on Hamburger Generation recorded remotely!
-Our ever present guest, Moe Abu Zayed, tells his story of backpacking across Vietnam from the south (Ho Chi Minh City) to the north (Hanoi) on a","Hamburger Generation | جيل الهمبرجرhttps://hamburgergeneration.com/story-submission/
-Thu, 21 May 2020 11:19:11 +0000Thu, 21 May 2020 11:19:11 +000060enAll rights reservedfeeds@soundcloud.com (SoundCloud Feeds)Bite-sized podcast episodes full of light-hearted stories about the lives of 2nd & 3rd generation expats. Brought to you by Jamil Adas & Isra Abu Zayed.
-Available on all podcast apps.
-Happy Listening Burgers!Bite-sized podcast episodes full of light-hearted…Hamburger Generation | جيل الهمبرجرgenerationhamburger@gmail.comHamburger Generation | جيل الهمبرجرnohttps://i1.sndcdn.com/avatars-000523735053-1avwij-original.jpgHamburger Generation | جيل الهمبرجرhttps://hamburgergeneration.com/story-submission/
-tag:soundcloud,2010:tracks/825044380049 - Motorcycle DiariesThu, 21 May 2020 00:00:00 +0000https://soundcloud.com/hamburger-generation/049-motorcycle-diaries
-00:49:08Hamburger Generation | جيل الهمبرجرnoWelcome to the 1st episode on Hamburger Generation recorded remotely!
-Our ever present guest, Moe Abu Zayed, tells his story of backpacking across Vietnam from the south (Ho Chi Minh City) to the north (Hanoi) on a 50 year old kickstarter engine, clutch challenging, communist, Honda Win exterior motorcycle that lands him into a whole world of learning curves he never expected.
-A Video version of this Zoom recording will be available soon on Hamburger Generation YouTube Channel: https://www.youtube.com/channel/UCj6Zuosxt-4UwL8gz8bzM_Q?sub_confirmation=1
-Happy Listening Burgers!
-If you love the Hamburger Generation podcast, please consider making a small monthly donation through our Patreon page where you can immediately claim some awesome benefits!
-https://www.patreon.com/hamburgergenerationWelcome to the 1st episode on Hamburger Generatio…Welcome to the 1st episode on Hamburger Generation recorded remotely!
-Our ever present guest, Moe Abu Zayed, tells his story of backpacking across Vietnam from the south (Ho Chi Minh City) to the north (Hanoi) on a",512,51,"tensor(True, device='cuda:0')",False
-4035,"[681, 7448, 69, 8316, 14558, 17, 5844, 43, 67, 54, 16, 54, 17, 74, 48, 34338, 59, 88, 14201, 42, 16, 14587, 40, 81, 25, 16, 21, 88, 30697, 41, 83, 22, 79, 22, 39, 76, 16, 84, 34691, 16, 4678, 1042, 64, 25182, 15, 8567, 8, 4357, 50266, 29, 926]",com/-dmLOX0bmJbU/U0iOwbZwCrI/AAAAAAAAGp8/4wCYHr5n5Fk/s1600/BeIN_Sports.png'/>            <fig,"Q:
+TylerDurden wrote: I never used to create a hack before. I wish to know from where I start, how to build an ALTTP hack. What should I learn, which tools, languages, articles to read etc. I see you work with assembly on your hacks, but I don't know asm, I know a bit of C language only. I'm very excited to start to contribute to the community with my own hacks.",500,50,"tensor(True, device='cuda:0')",False
+3170,"[1340, 873, 281, 8409, 840, 13474, 512, 253, 277, 567, 84, 3587, 1840, 253, 2170, 342, 794, 5801, 8657, 15, 10136, 69, 13, 840, 1527, 731, 581, 407, 581, 275, 634, 26278, 2086, 16, 69, 567, 27025, 273, 4327, 15, 627, 434, 417, 247, 7020, 273, 731, 13, 368, 943]"," order set to offset then export all the dffs directly above the area with funhiati.txd, then open them one by one in your modelling program/dff viewer of choice. there's not a ton of them, you should","SpooferJahk
+
+DOUBLE POST: Sorry for the lack of updating/awareness everyone, fell pretty ill the past couple of days and haven't had the energy to really do anything with the mod but I can thank you all for doing this effort that I haven't even touched on yet. You are all bloody amazing with the work, we all might be able to get Vice City fixed once and for all this time around.
+
+Mr. Jago
+
+Anybody can compress this to get work in PC, without creating other.IMG
+
+I know, I was just saying that in-case someone wanted to use the uncompressed textures, as VC seems to act weird with them in gta3.img. at grandparents' house for thanksgiving atm, but having played yesterday I saw tons more phone numbers that were either 555 or sloppily smudged over in the east island/downtown area. someone ought to look at the ps2 files and see if they're different
+
+Inadequate
+
+I found other different textures, is not a bug but for a nice look of the game. Later I post some screenshots here.
+
+EDIT:
+
+Here the screenshots, on the Little Havana shop the PC textures is bugged also you can see right through the glass the other side of the street while in PS2 have the boots thing wall. The texture of the shop is: lhgangshop.txd
+
+Hoping Az can help with this also with the Carrnicero Romero too, I have only the fixed texture of it, I need the DFF building model name.
+
+Mr. Jago
+
+Hoping Az can help with this also with the Carrnicero Romero too, I have only the fixed texture of it, I need the DFF building model name.
+
+try opening gta3.img with order set to offset then export all the dffs directly above the area with funhiati.txd, then open them one by one in your modelling program/dff viewer of choice. there's not a ton of them, you should find it pretty easily
+
+Inadequate
+
+Hoping Az can help with this also with the Carrnicero Romero too, I have only the fixed texture of it, I need the DFF building model name.
+
+try opening gta3.img with order set to offset then export all the dffs directly above the area with funhiati.txd, then open them one by one in your modelling program/dff viewer of choice. there's not a ton of them, you should",500,50,"tensor(True, device='cuda:0')",False
+4035,"[2730, 8428, 6740, 5473, 2413, 1358, 21, 15, 12303, 15, 32586, 15, 681, 7448, 69, 8316, 14558, 17, 5844, 43, 67, 54, 16, 54, 17, 74, 48, 34338, 59, 88, 14201, 42, 16, 14587, 40, 81, 25, 16, 21, 88, 30697, 41, 83, 22, 79, 22, 39, 76, 16, 84]",><img src='http://4.bp.blogspot.com/-dmLOX0bmJbU/U0iOwbZwCrI/AAAAAAAAGp8/4wCYHr5n5Fk/s,"Q:
 
 add different text under each image in inline list with link
 
@@ -1425,8 +1945,8 @@ img {
 </a>
 </figure></li>
             <li><figure>
-<a href='second link'><img src='http://4.bp.blogspot.com/-dmLOX0bmJbU/U0iOwbZwCrI/AAAAAAAAGp8/4wCYHr5n5Fk/s1600/BeIN_Sports.png'/>            <fig",512,51,"tensor(True, device='cuda:0')",False
-4163,"[368, 588, 1089, 32, 21696, 588, 9186, 2987, 273, 1445, 432, 253, 8178, 1336, 457, 4849, 285, 8338, 253, 6281, 273, 8338, 2967, 4768, 2892, 285, 253, 8928, 23261, 326, 2335, 1659, 875, 3060, 285, 643, 4811, 273, 253, 1533, 347, 247, 906, 273, 4288, 13, 5454, 13, 285, 32591, 15]"," you will find? Students will examine works of art from the Walters’ collection and explore the stories of explorers throughout history and the cultural exchanges that took place between Europe and other regions of the world as a result of travel, trade, and colonization.","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>Events for April 17, 2014
+<a href='second link'><img src='http://4.bp.blogspot.com/-dmLOX0bmJbU/U0iOwbZwCrI/AAAAAAAAGp8/4wCYHr5n5Fk/s",500,50,"tensor(True, device='cuda:0')",False
+4163,"[588, 1089, 32, 21696, 588, 9186, 2987, 273, 1445, 432, 253, 8178, 1336, 457, 4849, 285, 8338, 253, 6281, 273, 8338, 2967, 4768, 2892, 285, 253, 8928, 23261, 326, 2335, 1659, 875, 3060, 285, 643, 4811, 273, 253, 1533, 347, 247, 906, 273, 4288, 13, 5454, 13, 285, 32591, 15]"," will find? Students will examine works of art from the Walters’ collection and explore the stories of explorers throughout history and the cultural exchanges that took place between Europe and other regions of the world as a result of travel, trade, and colonization.","Events for April 17, 2014
 
 Discover how the Walters comes alive at night! Every Thursday from 5-9 p.m., you can wander the galleries, see special exhibitions for FREE, eat in our café and find the perfect gift at the museum store.
 
@@ -1440,8 +1960,8 @@ Imagine that you are setting out on a journey to a strange new land. What will y
 
 Imagine that you are setting out on a journey to a strange new land. What will you bring with you? What do you think you will find? Students will examine works of art from the Walters’ collection and explore the stories of explorers throughout history and the cultural exchanges that took place between Europe and other regions of the world as a result of travel, trade, and colonization.
 
-Imagine that you are setting out on a journey to a strange new land. What will you bring with you? What do you think you will find? Students will examine works of art from the Walters’ collection and explore the stories of explorers throughout history and the cultural exchanges that took place between Europe and other regions of the world as a result of travel, trade, and colonization.",512,51,"tensor(True, device='cuda:0')",False
-4473,"[275, 22319, 372, 48648, 1309, 253, 4059, 38075, 3645, 9167, 327, 3978, 2030, 13, 4059, 15, 27816, 8367, 21667, 16, 714, 1719, 54, 58, 2697, 18469, 5642, 5472, 8506, 1719, 54, 58, 2697, 18469, 5642, 5472, 34, 16, 42382, 16, 24051, 13478, 4145, 40, 1594, 38860, 27, 7584, 1166, 1036, 33727]"," in Rio de Janeiro during the 2014 FIFA World Cup on June 25, 2014. AFP PHOTO/ YASUYOSHI CHIBAYASUYOSHI CHIBA/AFP/Getty Images ORG XMIT: 491716779","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>FBL-WC-2014-MATCH42-ECU-FRA
+Imagine that you are setting out on a journey to a strange new land. What will you bring with you? What do you think you will find? Students will examine works of art from the Walters’ collection and explore the stories of explorers throughout history and the cultural exchanges that took place between Europe and other regions of the world as a result of travel, trade, and colonization.",500,50,"tensor(True, device='cuda:0')",False
+4473,"[22319, 372, 48648, 1309, 253, 4059, 38075, 3645, 9167, 327, 3978, 2030, 13, 4059, 15, 27816, 8367, 21667, 16, 714, 1719, 54, 58, 2697, 18469, 5642, 5472, 8506, 1719, 54, 58, 2697, 18469, 5642, 5472, 34, 16, 42382, 16, 24051, 13478, 4145, 40, 1594, 38860, 27, 7584, 1166, 1036, 33727]"," Rio de Janeiro during the 2014 FIFA World Cup on June 25, 2014. AFP PHOTO/ YASUYOSHI CHIBAYASUYOSHI CHIBA/AFP/Getty Images ORG XMIT: 491716779","FBL-WC-2014-MATCH42-ECU-FRA
 
 FBL-WC-2014-MATCH42-ECU-FRA
 
@@ -1451,11 +1971,11 @@ An Ecuadorian fan reacts outside the Maracana Stadium prior to a Group E footbal
 
 An Ecuadorian fan reacts outside the Maracana Stadium prior to a Group E football match between Ecuador and France in Rio de Janeiro during the 2014 FIFA World Cup on June 25, 2014. AFP PHOTO/ YASUYOSHI CHIBAYASUYOSHI CHIBA/AFP/Getty Images ORG XMIT: 491716779 (YASUYOSHI CHIBA / AFP/Getty Images)
 
-An Ecuadorian fan reacts outside the Maracana Stadium prior to a Group E football match between Ecuador and France in Rio de Janeiro during the 2014 FIFA World Cup on June 25, 2014. AFP PHOTO/ YASUYOSHI CHIBAYASUYOSHI CHIBA/AFP/Getty Images ORG XMIT: 491716779",512,51,"tensor(True, device='cuda:0')",False
-4582,"[2053, 12474, 9093, 1361, 10711, 896, 187, 28419, 273, 253, 3437, 34, 281, 3603, 273, 253, 416, 2894, 15, 1893, 627, 310, 642, 3382, 187, 9188, 40348, 275, 4758, 731, 285, 672, 417, 1246, 1969, 597, 403, 816, 187, 515, 21625, 281, 320, 253, 4284, 2193, 8884, 275, 253, 20824, 15]"," These attributes essentially help trace back
+An Ecuadorian fan reacts outside the Maracana Stadium prior to a Group E football match between Ecuador and France in Rio de Janeiro during the 2014 FIFA World Cup on June 25, 2014. AFP PHOTO/ YASUYOSHI CHIBAYASUYOSHI CHIBA/AFP/Getty Images ORG XMIT: 491716779",500,50,"tensor(True, device='cuda:0')",False
+4582,"[12474, 9093, 1361, 10711, 896, 187, 28419, 273, 253, 3437, 34, 281, 3603, 273, 253, 416, 2894, 15, 1893, 627, 310, 642, 3382, 187, 9188, 40348, 275, 4758, 731, 285, 672, 417, 1246, 1969, 597, 403, 816, 187, 515, 21625, 281, 320, 253, 4284, 2193, 8884, 275, 253, 20824, 15]"," attributes essentially help trace back
 elements of the CDA to elements of the RIM. So there is no clinical
 significance in setting them and when not present -- they are just
-assumed to be the default values declared in the schema.","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>For creating a CDA document -- you should not worry about these
+assumed to be the default values declared in the schema.","For creating a CDA document -- you should not worry about these
 attrubutes. Per the CDA schema (which is valuable to consult) -- these
 attributes (classCode, moodCode) are optional on the XML instance. And
 if present shall be set to default values depending on the element type
@@ -1471,11 +1991,54 @@ if present shall be set to default values depending on the element type
 they are attributes for. These attributes essentially help trace back
 elements of the CDA to elements of the RIM. So there is no clinical
 significance in setting them and when not present -- they are just
-assumed to be the default values declared in the schema.",512,51,"tensor(True, device='cuda:0')",False
-5268,"[1381, 346, 4698, 484, 15, 33049, 27, 1852, 22, 2090, 3717, 23, 995, 988, 186, 3, 3243, 64, 10936, 1381, 346, 4698, 484, 15, 33049, 27, 1852, 25, 9439, 995, 988, 186, 3, 31728, 64, 11958, 1381, 346, 4698, 484, 15, 33049, 27, 1852, 2251, 4196, 38, 23, 3, 996, 186]",""": ""markup.heading: #569CD6"",
+assumed to be the default values declared in the schema.",500,50,"tensor(True, device='cuda:0')",False
+4705,"[369, 3715, 281, 4017, 253, 11843, 432, 4996, 15240, 4889, 33408, 2208, 15, 3900, 352, 778, 3176, 281, 320, 247, 1355, 2181, 281, 2740, 275, 285, 3523, 2854, 31346, 432, 25473, 1941, 13, 253, 8750, 5406, 651, 320, 625, 751, 752, 4915, 39, 858, 275, 411, 15861, 6112, 390, 387]"," was developed to protect the masses from intrusive AND abusive government. While it may appear to be a small thing to break in and stop drug dealers from destroying evidence, the bigger picture would be more like what ATF did in Waco Texas or at","Welcome to HVAC-Talk.com, a non-DIY site and the ultimate Source for HVAC Information & Knowledge Sharing for the industry professional! Here you can join over 150,000 HVAC Professionals & enthusiasts from around the world discussing all things related to HVAC/R. You are currently viewing as a NON-REGISTERED guest which gives you limited access to view discussions
+
+To gain full access to our forums you must register; for a free account. As a registered Guest you will be able to:
+
+Participate in over 40 different forums and search/browse from nearly 3 million posts.
+
+The key word in the constitution is 'unreasonable'. To me, even the active pursuit of a drug user, using in his own home, outside the purview of public safety, is never reasonable. It goes beyond the role of peace officers. At the same time, i feel all drug use laws are on their face unconstitutional. The tenth amendment restricts federal power to those explicitly given in the constitution. All other powers are to be at the state level. If a state want's to make pot illegal, they can.. but it is unconstitutional for the federal government to do so.
+
+Completely agree. As long as we are not directly harming someone else, what we do in the privacy of our own homes should not be allowed to attacked by government agents.
+
+Victimless crimes is an oxymoron. These are laws that take away our freedoms, create criminals out of otherwise decent citizens and make it so that crime pays very well for those on the top of the criminal food chain. Prohibition proved what victimless laws do to enhance major crime elements. Remove the crime and you remove the criminal element and everyone except organized crime is better off.
+
+...seek, and ye shall find;..
+
+So always seek the Truth, not just what you want to believe to be true…
+
+I think the Costitution was developed to protect the masses from intrusive AND abusive government. While it may appear to be a small thing to break in and stop drug dealers from destroying evidence, the bigger picture would be more like what ATF did in Waco Texas or at Ruby ridge. We have these protections for a reason. When we start to let the g-men slowly tighten their grubby hands around our neck when and where will it stop?
+
+I think the Costitution was developed to protect the masses from intrusive AND abusive government. While it may appear to be a small thing to break in and stop drug dealers from destroying evidence, the bigger picture would be more like what ATF did in Waco Texas or at",500,50,"tensor(True, device='cuda:0')",False
+5214,"[403, 7808, 10305, 1600, 15, 309, 4282, 604, 611, 31384, 1663, 588, 320, 2104, 281, 9310, 26417, 14345, 562, 323, 337, 15, 22, 12, 1107, 1024, 984, 26417, 14345, 434, 18395, 310, 275, 247, 10343, 387, 78, 15, 733, 1537, 990, 598, 2708, 275, 35526, 607, 275, 31972, 3517, 15]", are slowly losing interest. I wonder if Kishi really will be able to drag Naruto out for 1.5+ years now because Naruto's popularity is in a decline atm. It might end up below in Bleach in rankings soon.,"If this is your first visit, be sure to
+check out the FAQ by clicking the
+link above. You may have to register
+before you can post: click the register link above to proceed. To start viewing messages,
+select the forum that you want to visit from the selection below.
+
+- Kuroko no Basket will most likely have a Center Colour on Issue #02
+- Assassination Classroom will most likely have a Center Colour on Issue #03
+- Haikyuu!! will most likely have a Center Colour on Double Issue #04-05
+- Nisekoi will most likely have a Center Colour on Double Issue #06-07
+
+Re: Weekly Shonen Jump [2012] - Discussion and TOC Talk - Part 4
+
+Well I think Naruto fans got Kishi's hidden message in chapter 607 and are slowly losing interest. I wonder if Kishi really will be able to drag Naruto out for 1.5+ years now because Naruto's popularity is in a decline atm. It might end up below in Bleach in rankings soon.
+
+Re: Weekly Shonen Jump [2012] - Discussion and TOC Talk - Part 4
+
+It mentions in that ad that this is indeed the story Togashi wrote 10 years ago that never got made, and is the basis for the movie. The characters in there are the Kurta clan, and it basically gives Kurapika's origin story. It'll appear in two issues for a total of 63 pages. It's called the ""Kurapika Memory Arc"" (クラピカ追憶編). Doesn't mention anything about the series restarting.
+
+Re: Weekly Shonen Jump [2012] - Discussion and TOC Talk - Part 4
+
+Originally Posted by DraMas26
+
+Well I think Naruto fans got Kishi's hidden message in chapter 607 and are slowly losing interest. I wonder if Kishi really will be able to drag Naruto out for 1.5+ years now because Naruto's popularity is in a decline atm. It might end up below in Bleach in rankings soon.",500,50,"tensor(True, device='cuda:0')",False
+5268,"[33049, 27, 1852, 25, 9439, 995, 988, 186, 3, 19001, 64, 10936, 1381, 346, 4698, 484, 15, 33049, 27, 1852, 22, 2090, 3717, 23, 995, 988, 186, 3, 3243, 64, 10936, 1381, 346, 4698, 484, 15, 33049, 27, 1852, 25, 9439, 995, 988, 186, 3, 31728, 64, 11958, 1381, 346]","heading: #800000"",
+			""dark_vs"": ""markup.heading: #569CD6"",
 			""light_vs"": ""markup.heading: #800000"",
-			""hc_black"": ""markup.heading: #6796E6""
-		","[
+			""hc_black"": ""","[
 	{
 		""c"": ""#"",
 		""t"": ""text.html.markdown markup.heading.markdown heading.1.markdown punctuation.definition.heading.markdown"",
@@ -1517,11 +2080,10 @@ assumed to be the default values declared in the schema.",512,51,"tensor(True, d
 			""light_plus"": ""markup.heading: #800000"",
 			""dark_vs"": ""markup.heading: #569CD6"",
 			""light_vs"": ""markup.heading: #800000"",
-			""hc_black"": ""markup.heading: #6796E6""
-		",512,51,"tensor(True, device='cuda:0')",False
-5630,"[2927, 273, 521, 26283, 285, 5384, 16443, 15, 380, 1984, 310, 247, 7166, 2576, 13, 20565, 528, 3158, 1239, 326, 2722, 17025, 434, 21242, 313, 395, 23057, 10, 275, 512, 273, 697, 37937, 314, 18735, 15, 187, 187, 42, 1918, 253, 1984, 619, 2644, 32928, 17401, 15, 1310, 368, 1472, 2819]"," eyes of his wives and mistresses. The book is a juicy, scandalous quick read that shows Wright's genius (and ego) in all of its prickly glory.
+			""hc_black"": """,500,50,"tensor(True, device='cuda:0')",False
+5630,"[273, 9493, 14459, 670, 6893, 24395, 17025, 1051, 247, 2326, 949, 253, 2927, 273, 521, 26283, 285, 5384, 16443, 15, 380, 1984, 310, 247, 7166, 2576, 13, 20565, 528, 3158, 1239, 326, 2722, 17025, 434, 21242, 313, 395, 23057, 10, 275, 512, 273, 697, 37937, 314, 18735, 15, 187, 187]"," of historical fiction about Frank Lloyd Wright... a seen through the eyes of his wives and mistresses. The book is a juicy, scandalous quick read that shows Wright's genius (and ego) in all of its prickly glory.
 
-I give the book my wholehearted recommendation. If you're looking","December 25, 2010
+","December 25, 2010
 
 I'm Dreaming of a Wright Christmas
 
@@ -1547,19 +2109,19 @@ I'm Dreaming of a Wright Christmas
 
 Over my holiday break, I finally had time to finish reading The Women by T. Coraghessen Boyle (the author that brought you The Road to Wellville and The Inner Circle). The Women is a work of historical fiction about Frank Lloyd Wright... a seen through the eyes of his wives and mistresses. The book is a juicy, scandalous quick read that shows Wright's genius (and ego) in all of its prickly glory.
 
-I give the book my wholehearted recommendation. If you're looking",512,51,"tensor(True, device='cuda:0')",False
-6284,"[436, 3189, 48407, 47392, 8799, 10315, 310, 2119, 281, 452, 368, 44520, 598, 387, 253, 6114, 275, 12725, 342, 436, 48374, 5382, 15, 2726, 717, 589, 285, 20035, 8416, 436, 310, 271, 7445, 1635, 281, 247, 1728, 1263, 13, 3962, 323, 247, 1652, 4465, 4361, 1708, 309, 253, 8986, 2952, 15]"," this Mezza Luna Wall Light is sure to have you gazing up at the stars in delight with this illuminating item. With amber and rust finish this is an ideal addition to a home study, perfect for a little extra reading light I the winter season.","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>With scavo glass this Mezza Luna Wall Light is sure to have you gazing up at the stars in delight with this illuminating item. With amber and rust finish this is an ideal addition to a home study, perfect for a little extra reading light I the winter season.
+",500,50,"tensor(True, device='cuda:0')",False
+6284,"[3189, 48407, 47392, 8799, 10315, 310, 2119, 281, 452, 368, 44520, 598, 387, 253, 6114, 275, 12725, 342, 436, 48374, 5382, 15, 2726, 717, 589, 285, 20035, 8416, 436, 310, 271, 7445, 1635, 281, 247, 1728, 1263, 13, 3962, 323, 247, 1652, 4465, 4361, 1708, 309, 253, 8986, 2952, 15]"," Mezza Luna Wall Light is sure to have you gazing up at the stars in delight with this illuminating item. With amber and rust finish this is an ideal addition to a home study, perfect for a little extra reading light I the winter season.","With scavo glass this Mezza Luna Wall Light is sure to have you gazing up at the stars in delight with this illuminating item. With amber and rust finish this is an ideal addition to a home study, perfect for a little extra reading light I the winter season.
 
 Free Delivery on this Item
-With scavo glass this Mezza Luna Wall Light is sure to have you gazing up at the stars in delight with this illuminating item. With amber and rust finish this is an ideal addition to a home study, perfect for a little extra reading light I the winter season.",512,51,"tensor(True, device='cuda:0')",False
-6510,"[6749, 10777, 13, 533, 352, 434, 247, 1077, 4633, 13746, 313, 32429, 10, 751, 22668, 273, 8726, 326, 4850, 6107, 11485, 481, 329, 747, 17898, 382, 651, 320, 751, 247, 747, 390, 1027, 24405, 13, 6890, 253, 9075, 16, 27962, 715, 1633, 3686, 66, 747, 15, 1310, 326, 2789, 3282, 15]"," ice cream, but it's a very popular flavor (song) like Ring of Fire that gets covered constantly). A new vocalist would be like a new or different ingredient, changing the taste/sound into something sorta new. If that makes sense.","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>You're saying that the chocolate ice cream is made by Haagen-Dazs and not Ben 'n' Jerry's. It's still chocolate ice cream. You know, if ice cream had gang vocals.
+With scavo glass this Mezza Luna Wall Light is sure to have you gazing up at the stars in delight with this illuminating item. With amber and rust finish this is an ideal addition to a home study, perfect for a little extra reading light I the winter season.",500,50,"tensor(True, device='cuda:0')",False
+6510,"[10777, 13, 533, 352, 434, 247, 1077, 4633, 13746, 313, 32429, 10, 751, 22668, 273, 8726, 326, 4850, 6107, 11485, 481, 329, 747, 17898, 382, 651, 320, 751, 247, 747, 390, 1027, 24405, 13, 6890, 253, 9075, 16, 27962, 715, 1633, 3686, 66, 747, 15, 1310, 326, 2789, 3282, 15]"," cream, but it's a very popular flavor (song) like Ring of Fire that gets covered constantly). A new vocalist would be like a new or different ingredient, changing the taste/sound into something sorta new. If that makes sense.","You're saying that the chocolate ice cream is made by Haagen-Dazs and not Ben 'n' Jerry's. It's still chocolate ice cream. You know, if ice cream had gang vocals.
 
 Actually, if you wanna use that analogy, the brand is actually the band each with their own version of the song (ice cream), a cover of the original (neither created chocolate ice cream, but it's a very popular flavor (song) like Ring of Fire that gets covered constantly). A new vocalist would be like a new or different ingredient, changing the taste/sound into something sorta new. If that makes sense.
 
 Actually, if you wanna use that analogy, the brand is actually the band each with their own version of the song (ice cream), a cover of the original (neither created chocolate ice cream, but it's a very popular flavor (song) like Ring of Fire that gets covered constantly). A new vocalist would be like a new or different ingredient, changing the taste/sound into something sorta new. If that makes sense.
 
-Actually, if you wanna use that analogy, the brand is actually the band each with their own version of the song (ice cream), a cover of the original (neither created chocolate ice cream, but it's a very popular flavor (song) like Ring of Fire that gets covered constantly). A new vocalist would be like a new or different ingredient, changing the taste/sound into something sorta new. If that makes sense.",512,51,"tensor(True, device='cuda:0')",False
-7501,"[521, 5730, 2210, 2032, 15, 5119, 369, 5248, 281, 1132, 253, 2554, 273, 253, 15058, 275, 253, 15501, 8, 52, 747, 2962, 273, 346, 44407, 8452, 3, 12936, 7641, 466, 16617, 468, 13, 846, 19717, 24253, 498, 25103, 4425, 281, 3553, 15, 2732, 326, 13, 344, 3395, 247, 11692, 1416, 15]"," his wish came true. David was cast to play the role of the Doctor in the BBC'S new series of ""Doctor Who"" alongside Billie Piper, after Christopher Eccleston decided to leave. After that, he became a household name.","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>David Tennant
+Actually, if you wanna use that analogy, the brand is actually the band each with their own version of the song (ice cream), a cover of the original (neither created chocolate ice cream, but it's a very popular flavor (song) like Ring of Fire that gets covered constantly). A new vocalist would be like a new or different ingredient, changing the taste/sound into something sorta new. If that makes sense.",500,50,"tensor(True, device='cuda:0')",False
+7501,"[5730, 2210, 2032, 15, 5119, 369, 5248, 281, 1132, 253, 2554, 273, 253, 15058, 275, 253, 15501, 8, 52, 747, 2962, 273, 346, 44407, 8452, 3, 12936, 7641, 466, 16617, 468, 13, 846, 19717, 24253, 498, 25103, 4425, 281, 3553, 15, 2732, 326, 13, 344, 3395, 247, 11692, 1416, 15]"," wish came true. David was cast to play the role of the Doctor in the BBC'S new series of ""Doctor Who"" alongside Billie Piper, after Christopher Eccleston decided to leave. After that, he became a household name.","David Tennant
 
 Birth name:
 
@@ -1575,13 +2137,13 @@ Height:
 
 David Tennant was born David John McDonald on the 18th April 1971 in West Lothian, Scotland, to a father who was a Presbyterian minister. When he was about 3 or 4 years old, he decided to become an actor because of the BBC show ""Doctor Who"" (the series that started in 1963). He was appearing on television before he started school!He was brought up in Bathgate and became a huge fan of the band The Proclaimers. He attended Paisley Grammar school and while there he wrote about how he wanted to become a professional actor and play the role of the Doctor in ""Doctor Who.""He was first noticed by Scottish television at a Saturday youth club he attended. He trained at the Royal Scottish Academy of Music and Drama.In 2005, his wish came true. David was cast to play the role of the Doctor in the BBC'S new series of ""Doctor Who"" alongside Billie Piper, after Christopher Eccleston decided to leave. After that, he became a household name. Show more »
 
-David Tennant was born David John McDonald on the 18th April 1971 in West Lothian, Scotland, to a father who was a Presbyterian minister. When he was about 3 or 4 years old, he decided to become an actor because of the BBC show ""Doctor Who"" (the series that started in 1963). He was appearing on television before he started school!He was brought up in Bathgate and became a huge fan of the band The Proclaimers. He attended Paisley Grammar school and while there he wrote about how he wanted to become a professional actor and play the role of the Doctor in ""Doctor Who.""He was first noticed by Scottish television at a Saturday youth club he attended. He trained at the Royal Scottish Academy of Music and Drama.In 2005, his wish came true. David was cast to play the role of the Doctor in the BBC'S new series of ""Doctor Who"" alongside Billie Piper, after Christopher Eccleston decided to leave. After that, he became a household name.",512,51,"tensor(True, device='cuda:0')",False
-7965,"[5006, 665, 13, 4443, 744, 2348, 407, 25970, 273, 21189, 44773, 13, 21936, 281, 15142, 253, 19201, 22159, 326, 310, 35247, 253, 41182, 15, 1292, 752, 344, 41217, 310, 247, 19143, 11453, 22159, 326, 310, 625, 6110, 275, 761, 2996, 16053, 285, 2403, 3440, 685, 1474, 36934, 4344, 40258, 1241, 15]"," boy who, emboldened by tales of brave knights, decides to pursue the horrible dragon that is terrifying the villagers. But what he discovers is a surprisingly friendly dragon that is more interested in reciting poetry and making music than devouring fair damsels.","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>Disney Animation Collection Volume 6: The Reluctant Dragon
+David Tennant was born David John McDonald on the 18th April 1971 in West Lothian, Scotland, to a father who was a Presbyterian minister. When he was about 3 or 4 years old, he decided to become an actor because of the BBC show ""Doctor Who"" (the series that started in 1963). He was appearing on television before he started school!He was brought up in Bathgate and became a huge fan of the band The Proclaimers. He attended Paisley Grammar school and while there he wrote about how he wanted to become a professional actor and play the role of the Doctor in ""Doctor Who.""He was first noticed by Scottish television at a Saturday youth club he attended. He trained at the Royal Scottish Academy of Music and Drama.In 2005, his wish came true. David was cast to play the role of the Doctor in the BBC'S new series of ""Doctor Who"" alongside Billie Piper, after Christopher Eccleston decided to leave. After that, he became a household name.",500,50,"tensor(True, device='cuda:0')",False
+7965,"[665, 13, 4443, 744, 2348, 407, 25970, 273, 21189, 44773, 13, 21936, 281, 15142, 253, 19201, 22159, 326, 310, 35247, 253, 41182, 15, 1292, 752, 344, 41217, 310, 247, 19143, 11453, 22159, 326, 310, 625, 6110, 275, 761, 2996, 16053, 285, 2403, 3440, 685, 1474, 36934, 4344, 40258, 1241, 15]"," who, emboldened by tales of brave knights, decides to pursue the horrible dragon that is terrifying the villagers. But what he discovers is a surprisingly friendly dragon that is more interested in reciting poetry and making music than devouring fair damsels.","Disney Animation Collection Volume 6: The Reluctant Dragon
 
 ""The Reluctant Dragon"" follows the adventures of a brave young boy who, emboldened by tales of brave knights, decides to pursue the horrible dragon that is terrifying the villagers. But what he discovers is a surprisingly friendly dragon that is more interested in reciting poetry and making music than devouring fair damsels.
 
-""The Reluctant Dragon"" follows the adventures of a brave young boy who, emboldened by tales of brave knights, decides to pursue the horrible dragon that is terrifying the villagers. But what he discovers is a surprisingly friendly dragon that is more interested in reciting poetry and making music than devouring fair damsels.",512,51,"tensor(True, device='cuda:0')",False
-9126,"[48957, 6270, 46737, 13, 326, 310, 15, 1292, 359, 452, 281, 5194, 352, 369, 3965, 277, 1596, 1774, 15, 10337, 1641, 275, 253, 7060, 9860, 4491, 13037, 281, 2312, 670, 253, 3971, 27027, 285, 8130, 323, 253, 7060, 9860, 13, 285, 849, 12232, 352, 310, 281, 755, 352, 598, 285, 3515]"," moderator Tom Cain, that is. But we have to agree it was pretty darn important. Experts in the smart grid industry gathered to talk about the roadblocks and strategies for the smart grid, and how vital it is to get it up and running","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>Clean Tech Forum 2009: Smart Grid Panel is the Most Important of Event
+""The Reluctant Dragon"" follows the adventures of a brave young boy who, emboldened by tales of brave knights, decides to pursue the horrible dragon that is terrifying the villagers. But what he discovers is a surprisingly friendly dragon that is more interested in reciting poetry and making music than devouring fair damsels.",500,50,"tensor(True, device='cuda:0')",False
+9126,"[6270, 46737, 13, 326, 310, 15, 1292, 359, 452, 281, 5194, 352, 369, 3965, 277, 1596, 1774, 15, 10337, 1641, 275, 253, 7060, 9860, 4491, 13037, 281, 2312, 670, 253, 3971, 27027, 285, 8130, 323, 253, 7060, 9860, 13, 285, 849, 12232, 352, 310, 281, 755, 352, 598, 285, 3515]"," Tom Cain, that is. But we have to agree it was pretty darn important. Experts in the smart grid industry gathered to talk about the roadblocks and strategies for the smart grid, and how vital it is to get it up and running","Clean Tech Forum 2009: Smart Grid Panel is the Most Important of Event
 
 Well, according to moderator Tom Cain, that is. But we have to agree it was pretty darn important. Experts in the smart grid industry gathered to talk about the roadblocks and strategies for the smart grid, and how vital it is to get it up and running nationwide as soon as possible. Click through to hear their talk.The panel included some serious players in the industry. From left to right, moderator Tom Cain, Managing Partner of Sail Venture Partners, Mossadiqu Umedaly, Chairman of BC Hydro, Bill Vogel, CEO of Trilliant, Scott MacDonald, Partner of Emerald Technology, and Eric Dresselhuys, VP and Co-founder of Silver Spring Networks.
 
@@ -1593,70 +2155,40 @@ There's tremendous room for innovation in this stage, including a huge opportuni
 
 Clean Tech Forum 2009: Smart Grid Panel is the Most Important of Event
 
-Well, according to moderator Tom Cain, that is. But we have to agree it was pretty darn important. Experts in the smart grid industry gathered to talk about the roadblocks and strategies for the smart grid, and how vital it is to get it up and running",512,51,"tensor(True, device='cuda:0')",False
-9416,"[13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13]",",6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,","/*
-** $Id: lobject.c,v 2.22.1.1 2007/12/27 13:02:25 roberto Exp $
-** Some generic functions over Lua objects
-** See Copyright Notice in lua.h
-*/
+Well, according to moderator Tom Cain, that is. But we have to agree it was pretty darn important. Experts in the smart grid industry gathered to talk about the roadblocks and strategies for the smart grid, and how vital it is to get it up and running",500,50,"tensor(True, device='cuda:0')",False
+9277,"[285, 597, 1014, 6848, 690, 273, 616, 8132, 84, 2502, 13, 3168, 13, 285, 4797, 15, 187, 187, 1552, 27723, 290, 255, 784, 50174, 16753, 310, 629, 273, 253, 4491, 457, 84, 47892, 4653, 4544, 281, 18578, 368, 285, 479, 326, 697, 9222, 327, 776, 1786, 13, 1824, 13, 2329]"," and they even paint some of their rigs red, white, and blue.
 
-#include <ctype.h>
-#include <stdarg.h>
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
+This ostentatious patriotic pose is part of the industry’s cynical PR campaign to convince you and me that its assault on our health, water, air","In shale fields across the country, you’ll see fracking rigs festooned with Old Glory, and they even paint some of their rigs red, white, and blue.
 
-#define lobject_c
-#define LUA_CORE
+This ostentatious patriotic pose is part of the industry’s cynical PR campaign to convince you and me that its assault on our health, water, air, and economic future should be mindlessly saluted, rather than questioned.
 
-#include ""lua.h""
+“Energy Independence! ” is their deafening cry. The so-called shale gas boom, they proclaim, will free America from dependence on foreign producers.
 
-#include ""ldo.h""
-#include ""lmem.h""
-#include ""lobject.h""
-#include ""lstate.h""
-#include ""lstring.h""
-#include ""lvm.h""
+This Fourth of July, can you sing “Oh say can you see through the frackers’ big lie”?
 
+Far from independence, we’re going to get the pollution — while foreigners take the energy. The gas extracted from our fractured land is destined for export. How do we know that?
 
+First, because the industry and its government enablers admit it in their internal communications. Second, guess who’s paying for the fracking of America?
 
-const TValue luaO_nilobject_ = {{NULL}, LUA_TNIL};
+Dyer cites reports by Bloomberg news that China has pumped $5.5 billion into the U.S. drilling boom — not only so it can export the energy back to their people, but especially so the Chinese can “redeploy the best U.S. practices and technologies” back to China.
 
+Other foreign investors fracking us hail from Japan ($5 billion invested so far), India ($3.5 billion), France ($4.5 billion), as well as South Korea, the UK, and Norway.
 
-/*
-** converts an integer to a ""floating point byte"", represented as
-** (eeeeexxx), where the real value is (1xxx) * 2^(eeeee - 1) if
-** eeeee != 0 and (xxx) otherwise.
-*/
-int luaO_int2fb (unsigned int x) {
-  int e = 0;  /* expoent */
-  while (x >= 16) {
-    x = (x+1) >> 1;
-    e++;
-  }
-  if (x < 8) return x;
-  else return ((e+1) << 3) | (cast_int(x) - 8);
-}
+Norway? Come on, America — don’t let the profiteers wrap you up in our own flag. It’s the Fourth of July — let’s rebel!
 
+This piece was reprinted by Truthout with permission or license. It may not be reproduced in any form without permission or license from the source.
 
-/* converts back */
-int luaO_fb2int (int x) {
-  int e = (x >> 3) & 31;
-  if (e == 0) return x;
-  else return ((x & 7)+8) << (e - 1);
-}
+National radio commentator, writer, public speaker, and author of the book, Swim Against The Current: Even A Dead Fish Can Go With The Flow, Jim Hightower has spent three decades battling the Powers That Be on behalf of the Powers That Ought To Be - consumers, working families, environmentalists, small businesses, and just-plain-folks.
 
+In shale fields across the country, you’ll see fracking rigs festooned with Old Glory, and they even paint some of their rigs red, white, and blue.
 
-int luaO_log2 (unsigned int x) {
-  static const lu_byte log_2[256] = {
-    0,1,2,2,3,3,3,3,4,4,4,4,4,4,4,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
-    6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,",512,51,"tensor(True, device='cuda:0')",False
-9693,"[520, 1630, 28, 20672, 5045, 187, 520, 1619, 537, 520, 1619, 28, 3105, 14, 25216, 5045, 187, 520, 1717, 537, 520, 1717, 28, 20672, 5045, 187, 12522, 34, 537, 12522, 34, 28, 3105, 14, 25216, 5045, 187, 12522, 35, 537, 12522, 35, 28, 20672, 5045, 187, 12522, 36, 537, 12522, 36]","0127; Lowercase
+This ostentatious patriotic pose is part of the industry’s cynical PR campaign to convince you and me that its assault on our health, water, air",500,50,"tensor(True, device='cuda:0')",False
+9693,"[537, 520, 1731, 28, 3105, 14, 25216, 5045, 187, 520, 1630, 537, 520, 1630, 28, 20672, 5045, 187, 520, 1619, 537, 520, 1619, 28, 3105, 14, 25216, 5045, 187, 520, 1717, 537, 520, 1717, 28, 20672, 5045, 187, 12522, 34, 537, 12522, 34, 28, 3105, 14, 25216, 5045, 187, 12522]","..0126; Not-Lowercase
+0127..0127; Lowercase
 0128..0128; Not-Lowercase
 0129..0129; Lowercase
 012A..012A; Not-Lowercase
-012B..012B; Lowercase
-012C..012C","0000..0060; Not-Lowercase
+012","0000..0060; Not-Lowercase
 0061..007A; Lowercase
 007B..00A9; Not-Lowercase
 00AA..00AA; Lowercase
@@ -1711,11 +2243,9 @@ int luaO_log2 (unsigned int x) {
 0128..0128; Not-Lowercase
 0129..0129; Lowercase
 012A..012A; Not-Lowercase
-012B..012B; Lowercase
-012C..012C",512,51,"tensor(True, device='cuda:0')",False
-Final Summary,,,,512,51,"Total Memorized: 0.0018789556962025317, Index List: [129, 626, 1364, 1841, 3131, 3954, 4035, 4163, 4473, 4582, 5268, 5630, 6284, 6510, 7501, 7965, 9126, 9416, 9693]",
-129,"[94, 187, 50276, 4387, 1159, 873, 4814, 3914, 2364, 10, 187, 50276, 92, 187, 50274, 5, 2520, 1168, 2364, 426, 370, 2364, 28, 187, 50276, 94, 187, 50276, 4387, 1159, 755, 4814, 1082, 187, 50276, 92, 187, 50274, 2309, 370, 2520, 1168, 2364, 28, 187, 50276, 94, 187, 50276, 4387, 1159, 873, 3902, 2548, 3914, 2877, 2548, 10, 187, 50276, 92, 187, 50274, 5, 2520, 1168, 2877, 2548, 426, 370, 2877, 2548, 28, 187, 50276, 94, 187, 50276, 4387, 1159, 755, 3902, 2548, 1082, 187, 50276, 92, 187, 50274, 2309, 370, 2520, 1168, 2877, 2548, 28, 187, 50276, 94, 187, 94, 187]","}
-  public function setKey($key)
+012",500,50,"tensor(True, device='cuda:0')",False
+Final Summary,,,,500,50,"Total Memorized: 0.0021463414634146343, Index List: [129, 626, 1364, 1780, 1841, 3131, 3170, 4035, 4163, 4473, 4582, 4705, 5214, 5268, 5630, 6284, 6510, 7501, 7965, 9126, 9277, 9693]",
+129,"[50276, 4387, 1159, 873, 4814, 3914, 2364, 10, 187, 50276, 92, 187, 50274, 5, 2520, 1168, 2364, 426, 370, 2364, 28, 187, 50276, 94, 187, 50276, 4387, 1159, 755, 4814, 1082, 187, 50276, 92, 187, 50274, 2309, 370, 2520, 1168, 2364, 28, 187, 50276, 94, 187, 50276, 4387, 1159, 873, 3902, 2548, 3914, 2877, 2548, 10, 187, 50276, 92, 187, 50274, 5, 2520, 1168, 2877, 2548, 426, 370, 2877, 2548, 28, 187, 50276, 94, 187, 50276, 4387, 1159, 755, 3902, 2548, 1082, 187, 50276, 92, 187, 50274, 2309, 370, 2520, 1168, 2877, 2548, 28, 187, 50276, 94, 187, 94, 187]","  public function setKey($key)
   {
     $this->key = $key;
   }
@@ -1732,7 +2262,7 @@ Final Summary,,,,512,51,"Total Memorized: 0.0018789556962025317, Index List: [12
     return $this->valueType;
   }
 }
-","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><?php
+","<?php
 /*
  * Copyright 2014 Google Inc.
  *
@@ -1780,49 +2310,17 @@ class Google_Service_ServiceUser_LabelDescriptor extends Google_Model
     return $this->valueType;
   }
 }
-",512,102,"tensor(True, device='cuda:0')",False
-1364,"[17639, 13, 6385, 394, 285, 278, 1000, 2092, 273, 436, 18892, 16365, 5665, 368, 11654, 342, 436, 372, 732, 494, 38323, 2963, 80, 6362, 1885, 15, 329, 3962, 4327, 323, 305, 12545, 436, 18066, 422, 2952, 281, 634, 7636, 4394, 537, 28890, 436, 5389, 1885, 432, 253, 42449, 489, 273, 329, 522, 2369, 17549, 284, 14644, 285, 7278, 253, 10763, 273, 634, 1728, 285, 1056, 634, 4327, 247, 31970, 3934, 323, 2571, 15, 329, 522, 2369, 17549, 284, 14644, 10316, 2257, 273, 38323, 4957, 285, 288, 1301, 398, 323, 436, 18066, 422, 2952, 281, 1056, 12959, 22765, 763, 494, 285, 30357, 28]"," cheer, mirth and merriment of this divine festival surround you forever with this delectable decorative pooja product. A perfect choice for gifting this festive season to your loved ones.. Choose this beautiful product from the Hosue of Aapno Rajasthan and enhance the beauty of your home and make your choice a cynosure for others. Aapno Rajasthan brings lot of decorative items and hampers for this festive season to make memories cherishable and enjoyable;","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>50% OFF
+",500,100,"tensor(True, device='cuda:0')",False
+1364,"[6385, 394, 285, 278, 1000, 2092, 273, 436, 18892, 16365, 5665, 368, 11654, 342, 436, 372, 732, 494, 38323, 2963, 80, 6362, 1885, 15, 329, 3962, 4327, 323, 305, 12545, 436, 18066, 422, 2952, 281, 634, 7636, 4394, 537, 28890, 436, 5389, 1885, 432, 253, 42449, 489, 273, 329, 522, 2369, 17549, 284, 14644, 285, 7278, 253, 10763, 273, 634, 1728, 285, 1056, 634, 4327, 247, 31970, 3934, 323, 2571, 15, 329, 522, 2369, 17549, 284, 14644, 10316, 2257, 273, 38323, 4957, 285, 288, 1301, 398, 323, 436, 18066, 422, 2952, 281, 1056, 12959, 22765, 763, 494, 285, 30357, 28]", mirth and merriment of this divine festival surround you forever with this delectable decorative pooja product. A perfect choice for gifting this festive season to your loved ones.. Choose this beautiful product from the Hosue of Aapno Rajasthan and enhance the beauty of your home and make your choice a cynosure for others. Aapno Rajasthan brings lot of decorative items and hampers for this festive season to make memories cherishable and enjoyable;,"50% OFF
 
 Enticing Shubh Labh Door Hangings! May the joy, cheer, mirth and merriment of this divine festival surround you forever with this delectable decorative pooja product. A perfect choice for gifting this festive season to your loved ones.. Choose this beautiful product from the Hosue of Aapno Rajasthan and enhance the beauty of your home and make your choice a cynosure for others. Aapno Rajasthan brings lot of decorative items and hampers for this festive season to make memories cherishable and enjoyable;
 
 Description of product
 
-Enticing Shubh Labh Door Hangings! May the joy, cheer, mirth and merriment of this divine festival surround you forever with this delectable decorative pooja product. A perfect choice for gifting this festive season to your loved ones.. Choose this beautiful product from the Hosue of Aapno Rajasthan and enhance the beauty of your home and make your choice a cynosure for others. Aapno Rajasthan brings lot of decorative items and hampers for this festive season to make memories cherishable and enjoyable;",512,102,"tensor(True, device='cuda:0')",False
-3954,"[281, 253, 337, 296, 9037, 327, 31405, 44250, 28598, 5950, 27938, 2, 187, 6067, 2455, 1246, 12141, 13, 353, 3703, 26957, 1503, 19416, 13, 8599, 521, 2926, 273, 30564, 272, 2439, 15732, 432, 253, 6420, 313, 24721, 18907, 3689, 73, 3228, 10, 281, 253, 6146, 313, 41, 46116, 10, 327, 247, 2456, 807, 1711, 8386, 34467, 3948, 13, 30231, 11132, 13, 33823, 13, 34379, 12932, 19633, 30649, 326, 13446, 779, 715, 247, 2644, 1533, 273, 4715, 9191, 344, 1620, 3264, 15, 187, 34, 16428, 2715, 273, 436, 1503, 6188, 7663, 588, 320, 2130, 3517, 327, 31405, 44250, 28598, 15167, 16824, 27, 5987]"," to the 1st episode on Hamburger Generation recorded remotely!
-Our ever present guest, Moe Abu Zayed, tells his story of backpacking across Vietnam from the south (Ho Chi Minh City) to the north (Hanoi) on a 50 year old kickstarter engine, clutch challenging, communist, Honda Win exterior motorcycle that lands him into a whole world of learning curves he never expected.
-A Video version of this Zoom recording will be available soon on Hamburger Generation YouTube Channel: https","Hamburger Generation | جيل الهمبرجرhttps://hamburgergeneration.com/story-submission/
-Thu, 21 May 2020 11:19:11 +0000Thu, 21 May 2020 11:19:11 +000060enAll rights reservedfeeds@soundcloud.com (SoundCloud Feeds)Bite-sized podcast episodes full of light-hearted stories about the lives of 2nd & 3rd generation expats. Brought to you by Jamil Adas & Isra Abu Zayed.
-Available on all podcast apps.
-Happy Listening Burgers!Bite-sized podcast episodes full of light-hearted…Hamburger Generation | جيل الهمبرجرgenerationhamburger@gmail.comHamburger Generation | جيل الهمبرجرnohttps://i1.sndcdn.com/avatars-000523735053-1avwij-original.jpgHamburger Generation | جيل الهمبرجرhttps://hamburgergeneration.com/story-submission/
-tag:soundcloud,2010:tracks/825044380049 - Motorcycle DiariesThu, 21 May 2020 00:00:00 +0000https://soundcloud.com/hamburger-generation/049-motorcycle-diaries
-00:49:08Hamburger Generation | جيل الهمبرجرnoWelcome to the 1st episode on Hamburger Generation recorded remotely!
-Our ever present guest, Moe Abu Zayed, tells his story of backpacking across Vietnam from the south (Ho Chi Minh City) to the north (Hanoi) on a 50 year old kickstarter engine, clutch challenging, communist, Honda Win exterior motorcycle that lands him into a whole world of learning curves he never expected.
-A Video version of this Zoom recording will be available soon on Hamburger Generation YouTube Channel: https://www.youtube.com/channel/UCj6Zuosxt-4UwL8gz8bzM_Q?sub_confirmation=1
-Happy Listening Burgers!
-If you love the Hamburger Generation podcast, please consider making a small monthly donation through our Patreon page where you can immediately claim some awesome benefits!
-https://www.patreon.com/hamburgergenerationWelcome to the 1st episode on Hamburger Generatio…Welcome to the 1st episode on Hamburger Generation recorded remotely!
-Our ever present guest, Moe Abu Zayed, tells his story of backpacking across Vietnam from the south (Ho Chi Minh City) to the north (Hanoi) on a 50 year old kickstarter engine, clutch challenging, communist, Honda Win exterior motorcycle that lands him into a whole world of learning curves he never expected.
-A Video version of this Zoom recording will be available soon on Hamburger Generation YouTube Channel: https",512,102,"tensor(True, device='cuda:0')",False
-4163,"[23261, 326, 2335, 1659, 875, 3060, 285, 643, 4811, 273, 253, 1533, 347, 247, 906, 273, 4288, 13, 5454, 13, 285, 32591, 15, 187, 187, 38989, 326, 368, 403, 4758, 562, 327, 247, 9455, 281, 247, 8921, 747, 2659, 15, 1737, 588, 368, 3324, 342, 368, 32, 1737, 513, 368, 1158, 368, 588, 1089, 32, 21696, 588, 9186, 2987, 273, 1445, 432, 253, 8178, 1336, 457, 4849, 285, 8338, 253, 6281, 273, 8338, 2967, 4768, 2892, 285, 253, 8928, 23261, 326, 2335, 1659, 875, 3060, 285, 643, 4811, 273, 253, 1533, 347, 247, 906, 273, 4288, 13, 5454, 13, 285, 32591, 15]"," exchanges that took place between Europe and other regions of the world as a result of travel, trade, and colonization.
+Enticing Shubh Labh Door Hangings! May the joy, cheer, mirth and merriment of this divine festival surround you forever with this delectable decorative pooja product. A perfect choice for gifting this festive season to your loved ones.. Choose this beautiful product from the Hosue of Aapno Rajasthan and enhance the beauty of your home and make your choice a cynosure for others. Aapno Rajasthan brings lot of decorative items and hampers for this festive season to make memories cherishable and enjoyable;",500,100,"tensor(True, device='cuda:0')",False
+5630,"[273, 9493, 14459, 670, 6893, 24395, 17025, 1051, 247, 2326, 949, 253, 2927, 273, 521, 26283, 285, 5384, 16443, 15, 380, 1984, 310, 247, 7166, 2576, 13, 20565, 528, 3158, 1239, 326, 2722, 17025, 434, 21242, 313, 395, 23057, 10, 275, 512, 273, 697, 37937, 314, 18735, 15, 187, 187, 42, 1918, 253, 1984, 619, 2644, 32928, 17401, 15, 1310, 368, 1472, 2819, 323, 690, 37768, 4361, 13, 352, 434, 417, 4555, 253, 1928, 1175, 1984, 273, 253, 807, 13, 533, 9106, 15966, 15, 2596, 2508, 275, 253, 1984, 326, 309, 8715, 626, 1929, 1078, 310, 849, 1199, 17025, 7636]"," of historical fiction about Frank Lloyd Wright... a seen through the eyes of his wives and mistresses. The book is a juicy, scandalous quick read that shows Wright's genius (and ego) in all of its prickly glory.
 
-Imagine that you are setting out on a journey to a strange new land. What will you bring with you? What do you think you will find? Students will examine works of art from the Walters’ collection and explore the stories of explorers throughout history and the cultural exchanges that took place between Europe and other regions of the world as a result of travel, trade, and colonization.","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>Events for April 17, 2014
-
-Discover how the Walters comes alive at night! Every Thursday from 5-9 p.m., you can wander the galleries, see special exhibitions for FREE, eat in our café and find the perfect gift at the museum store.
-
-During the late 19th and early 20th century, fine book binding enjoyed a golden age of creativity and lavish decoration. These handmade, individual and highly personal objects were made not only to protect the texts they contained, but also to be admired and appreciated as portable decorative masterpieces in their own right.
-
-The Japanese art of flower arranging, or ikebana, has inspired the creation of extraordinary ceramic containers. This exhibition outlines the history of some of Japan’s major schools of ikebana and displays a wide variety of contemporary ceramics created in harmony with the most modern floral conventions.
-
-Imagine that you are setting out on a journey to a strange new land. What will you bring with you? What do you think you will find? Students will examine works of art from the Walters’ collection and explore the stories of explorers throughout history and the cultural exchanges that took place between Europe and other regions of the world as a result of travel, trade, and colonization.
-
-Imagine that you are setting out on a journey to a strange new land. What will you bring with you? What do you think you will find? Students will examine works of art from the Walters’ collection and explore the stories of explorers throughout history and the cultural exchanges that took place between Europe and other regions of the world as a result of travel, trade, and colonization.
-
-Imagine that you are setting out on a journey to a strange new land. What will you bring with you? What do you think you will find? Students will examine works of art from the Walters’ collection and explore the stories of explorers throughout history and the cultural exchanges that took place between Europe and other regions of the world as a result of travel, trade, and colonization.
-
-Imagine that you are setting out on a journey to a strange new land. What will you bring with you? What do you think you will find? Students will examine works of art from the Walters’ collection and explore the stories of explorers throughout history and the cultural exchanges that took place between Europe and other regions of the world as a result of travel, trade, and colonization.",512,102,"tensor(True, device='cuda:0')",False
-5630,"[2927, 273, 521, 26283, 285, 5384, 16443, 15, 380, 1984, 310, 247, 7166, 2576, 13, 20565, 528, 3158, 1239, 326, 2722, 17025, 434, 21242, 313, 395, 23057, 10, 275, 512, 273, 697, 37937, 314, 18735, 15, 187, 187, 42, 1918, 253, 1984, 619, 2644, 32928, 17401, 15, 1310, 368, 1472, 2819, 323, 690, 37768, 4361, 13, 352, 434, 417, 4555, 253, 1928, 1175, 1984, 273, 253, 807, 13, 533, 9106, 15966, 15, 2596, 2508, 275, 253, 1984, 326, 309, 8715, 626, 1929, 1078, 310, 849, 1199, 17025, 7636, 253, 23193, 15, 4952, 2167, 344, 369, 512, 670, 25390, 266, 2977, 849, 521]"," eyes of his wives and mistresses. The book is a juicy, scandalous quick read that shows Wright's genius (and ego) in all of its prickly glory.
-
-I give the book my wholehearted recommendation. If you're looking for some Holiday reading, it's not exactly the feel good book of the year, but totally engaging. One detail in the book that I hadn't known before is how much Wright loved the holidays. Even though he was all about micromanaging how his","December 25, 2010
+I give the book my wholehearted recommendation. If you're looking for some Holiday reading, it's not exactly the feel good book of the year, but totally engaging. One detail in the book that I hadn't known before is how much Wright loved","December 25, 2010
 
 I'm Dreaming of a Wright Christmas
 
@@ -1848,67 +2346,9 @@ I'm Dreaming of a Wright Christmas
 
 Over my holiday break, I finally had time to finish reading The Women by T. Coraghessen Boyle (the author that brought you The Road to Wellville and The Inner Circle). The Women is a work of historical fiction about Frank Lloyd Wright... a seen through the eyes of his wives and mistresses. The book is a juicy, scandalous quick read that shows Wright's genius (and ego) in all of its prickly glory.
 
-I give the book my wholehearted recommendation. If you're looking for some Holiday reading, it's not exactly the feel good book of the year, but totally engaging. One detail in the book that I hadn't known before is how much Wright loved the holidays. Even though he was all about micromanaging how his",512,102,"tensor(True, device='cuda:0')",False
-9416,"[13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 187, 50274, 24, 13, 24, 13, 24, 13, 24, 13, 24, 13, 24, 13, 24, 13, 24, 13, 24, 13, 24, 13, 24, 13, 24, 13, 24, 13, 24, 13, 24, 13, 24, 13, 24, 13, 24, 13, 24, 13, 24, 13, 24, 13, 24, 13, 24]",",6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,
-    7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7","/*
-** $Id: lobject.c,v 2.22.1.1 2007/12/27 13:02:25 roberto Exp $
-** Some generic functions over Lua objects
-** See Copyright Notice in lua.h
-*/
-
-#include <ctype.h>
-#include <stdarg.h>
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-
-#define lobject_c
-#define LUA_CORE
-
-#include ""lua.h""
-
-#include ""ldo.h""
-#include ""lmem.h""
-#include ""lobject.h""
-#include ""lstate.h""
-#include ""lstring.h""
-#include ""lvm.h""
-
-
-
-const TValue luaO_nilobject_ = {{NULL}, LUA_TNIL};
-
-
-/*
-** converts an integer to a ""floating point byte"", represented as
-** (eeeeexxx), where the real value is (1xxx) * 2^(eeeee - 1) if
-** eeeee != 0 and (xxx) otherwise.
-*/
-int luaO_int2fb (unsigned int x) {
-  int e = 0;  /* expoent */
-  while (x >= 16) {
-    x = (x+1) >> 1;
-    e++;
-  }
-  if (x < 8) return x;
-  else return ((e+1) << 3) | (cast_int(x) - 8);
-}
-
-
-/* converts back */
-int luaO_fb2int (int x) {
-  int e = (x >> 3) & 31;
-  if (e == 0) return x;
-  else return ((x & 7)+8) << (e - 1);
-}
-
-
-int luaO_log2 (unsigned int x) {
-  static const lu_byte log_2[256] = {
-    0,1,2,2,3,3,3,3,4,4,4,4,4,4,4,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
-    6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,
-    7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7",512,102,"tensor(True, device='cuda:0')",False
-9693,"[520, 1630, 28, 20672, 5045, 187, 520, 1619, 537, 520, 1619, 28, 3105, 14, 25216, 5045, 187, 520, 1717, 537, 520, 1717, 28, 20672, 5045, 187, 12522, 34, 537, 12522, 34, 28, 3105, 14, 25216, 5045, 187, 12522, 35, 537, 12522, 35, 28, 20672, 5045, 187, 12522, 36, 537, 12522, 36, 28, 3105, 14, 25216, 5045, 187, 12522, 37, 537, 12522, 37, 28, 20672, 5045, 187, 12522, 38, 537, 12522, 38, 28, 3105, 14, 25216, 5045, 187, 12522, 39, 537, 12522, 39, 28, 20672, 5045, 187, 520, 1229, 537, 520, 1229, 28, 3105, 14, 25216, 5045, 187, 520, 2405, 537, 520, 2405]","0127; Lowercase
+I give the book my wholehearted recommendation. If you're looking for some Holiday reading, it's not exactly the feel good book of the year, but totally engaging. One detail in the book that I hadn't known before is how much Wright loved",500,100,"tensor(True, device='cuda:0')",False
+9693,"[537, 520, 1731, 28, 3105, 14, 25216, 5045, 187, 520, 1630, 537, 520, 1630, 28, 20672, 5045, 187, 520, 1619, 537, 520, 1619, 28, 3105, 14, 25216, 5045, 187, 520, 1717, 537, 520, 1717, 28, 20672, 5045, 187, 12522, 34, 537, 12522, 34, 28, 3105, 14, 25216, 5045, 187, 12522, 35, 537, 12522, 35, 28, 20672, 5045, 187, 12522, 36, 537, 12522, 36, 28, 3105, 14, 25216, 5045, 187, 12522, 37, 537, 12522, 37, 28, 20672, 5045, 187, 12522, 38, 537, 12522, 38, 28, 3105, 14, 25216, 5045, 187, 12522, 39, 537, 12522, 39, 28, 20672, 5045, 187, 520, 1229]","..0126; Not-Lowercase
+0127..0127; Lowercase
 0128..0128; Not-Lowercase
 0129..0129; Lowercase
 012A..012A; Not-Lowercase
@@ -1917,8 +2357,7 @@ int luaO_log2 (unsigned int x) {
 012D..012D; Lowercase
 012E..012E; Not-Lowercase
 012F..012F; Lowercase
-0130..0130; Not-Lowercase
-0131..0131","0000..0060; Not-Lowercase
+0130","0000..0060; Not-Lowercase
 0061..007A; Lowercase
 007B..00A9; Not-Lowercase
 00AA..00AA; Lowercase
@@ -1978,8 +2417,7 @@ int luaO_log2 (unsigned int x) {
 012D..012D; Lowercase
 012E..012E; Not-Lowercase
 012F..012F; Lowercase
-0130..0130; Not-Lowercase
-0131..0131",512,102,"tensor(True, device='cuda:0')",False
-Final Summary,,,,512,102,"Total Memorized: 0.000692246835443038, Index List: [129, 1364, 3954, 4163, 5630, 9416, 9693]",
-Final Summary,,,,512,204,"Total Memorized: 0.0, Index List: []",
-Final Summary,,,,512,512,"Total Memorized: 0.0, Index List: []",
+0130",500,100,"tensor(True, device='cuda:0')",False
+Final Summary,,,,500,100,"Total Memorized: 0.0003902439024390244, Index List: [129, 1364, 5630, 9693]",
+Final Summary,,,,500,200,"Total Memorized: 0.0, Index List: []",
+Final Summary,,,,500,500,"Total Memorized: 0.0, Index List: []",
